@@ -48,7 +48,7 @@ Below, you will find a preliminary breakdown of the structure of our guide, incl
     + 2.4.2 Teamwork
     + 2.4.3 Asana
     + 2.4.4 Notion
-    + 2.4.5 HHHH
+    + 2.4.5 HHHH testlida
 
 ## 3 Summary tables and graphs of user feedback and suggestions
 
