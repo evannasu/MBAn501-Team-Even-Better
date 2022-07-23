@@ -2,11 +2,22 @@
 
 ## Team member 1
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+- Name: **Tong Su**
+
+- Email: sutongln@umich.edu
+
+- Education:
+
+  + University of Michigan, Master of Business Analytics, Apr 2023
+
+  + Sun Yat-sen University, Bachelor of Finance, Jun 2020
+
+- Hobbies: Musics, Movies, Swimming, Traveling
+
 
 ## Team member 2
 
-Lida Zhang
+**Lida Zhang**
 
 ## Team member 3
 
