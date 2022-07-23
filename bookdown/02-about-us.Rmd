@@ -2,6 +2,10 @@
 
 ## Team member 1
 
+```{r out.height="20%", out.width="20%", fig.cap="This is me!"}
+knitr::include_graphics(rep("tong.png"))
+```
+
 - Name: **Tong Su**
 
 - Email: sutongln@umich.edu
@@ -14,6 +18,7 @@
 
 - Hobbies: Musics, Movies, Swimming, Traveling
 
+- 1 Fun Fact: I was the cheerleader of my college at my undergraduate school.
 
 ## Team member 2
 
