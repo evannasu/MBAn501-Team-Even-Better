@@ -17,7 +17,21 @@
 
 ## Team member 2
 
-**Lida Zhang**
+![This is me!](D:/Umich/BA501/pic.jpg){height=20%, width=20%}
+
+- Name: **Lida Zhang**
+
+- Email: lidazh@umich.edu
+
+- Education:
+
+  + University of Michigan, Master of Business Analytics, Apr 2023
+
+  + Shanghai University of Finance and Economics, Bachelor of Mathematical Economics, Jun 2021
+
+- Hobbies: Traveling, Jogging, Badminton, Yoga
+
+- 1 Fun Fact: Traveled to 15 countries in 4 continents including Middle East, Western Europe, and New Zealand
 
 ## Team member 3
 
