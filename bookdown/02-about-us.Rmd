@@ -6,6 +6,7 @@ All chapter sections start with a second-level (`##`) or higher heading followed
 
 ## Team member 2
 
+Lida Zhang
 
 ## Team member 3
 
