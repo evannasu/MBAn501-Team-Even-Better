@@ -17,6 +17,10 @@
 
 ## Team member 2
 
+```{r}
+knitr::include_graphics()
+```
+
 ![This is me!](D:/Umich/BA501/pic.jpg){height=20%, width=20%}
 
 - Name: **Lida Zhang**
