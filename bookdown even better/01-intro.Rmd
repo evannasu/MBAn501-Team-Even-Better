@@ -1,11 +1,5 @@
-# Hello bookdown 
+# Introduction 
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+We plan on making a guide for future MBAn students focused on team collaboration and management software that may be used for team projects. The guide will include three parts: an introductory overview of the contents of our guide, a detailed breakdown of the tools that we have selected to cover, and a final summary of user feedback and suggestions by current MBAn students.
 
-## A section
-
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
-
-### An unnumbered section {-}
-
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+Below, you will find a preliminary breakdown of the structure of our guide, including the different software/platforms that we plan to cover. For each of the chosen collaboration tools, we plan on providing the following information: an introduction, the main features, and who tends to use the tool. We have also selected one tool from each of four categories, as shown in bold, to provide more detailed information on, which will include a detailed tutorial on installation, how to use the main features, how to troubleshoot common problems, and more.
