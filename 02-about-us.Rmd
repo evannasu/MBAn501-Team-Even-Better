@@ -2,7 +2,7 @@
 
 ## Tong Su
 
-```{r echo=FALSE, fig.cap="This, out.height="20%", out.width="20%"}
+```{r echo=FALSE, out.height="20%", out.width="20%", fig.cap="This is me!"}
 knitr::include_graphics(rep("tong.png"))
 ```
 
@@ -22,7 +22,7 @@ knitr::include_graphics(rep("tong.png"))
 
 ## Lida Zhang
 
-```{r echo=FALSE, fig.cap="This, out.height="20%", out.width="20%"}
+```{r echo=FALSE, fig.cap="This is me!", out.height="20%", out.width="20%"}
 knitr::include_graphics(rep("img_lida.jpg"))
 ```
 
@@ -38,7 +38,7 @@ knitr::include_graphics(rep("img_lida.jpg"))
 
 - Hobbies: Traveling, Jogging, Badminton, Yoga
 
-- 1 Fun Fact: Traveled to 15 countries in 4 continents including Middle East, Western Europe, and New Zealand
+- 1 Fun Fact: I have traveled to 15 countries in 4 continents including Middle East, Western Europe, and New Zealand
 
 ## Team member 3
 
