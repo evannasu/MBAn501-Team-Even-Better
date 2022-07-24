@@ -2,7 +2,7 @@
 
 ## Tong Su
 
-```{r out.height="20%", out.width="20%", fig.cap="This is me!"}
+```{r echo=FALSE, fig.cap="This, out.height="20%", out.width="20%"}
 knitr::include_graphics(rep("tong.png"))
 ```
 
@@ -22,7 +22,7 @@ knitr::include_graphics(rep("tong.png"))
 
 ## Lida Zhang
 
-```{r out.height="20%", out.width="20%", fig.cap="This is me!"}
+```{r echo=FALSE, fig.cap="This, out.height="20%", out.width="20%"}
 knitr::include_graphics(rep("img_lida.jpg"))
 ```
 
