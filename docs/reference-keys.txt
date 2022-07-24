@@ -6,11 +6,11 @@ render-book
 preview-book
 introduction
 about-us
-team-member-1
-team-member-2
+tong-su
+lida-zhang
 team-member-3
 team-member-4
-team-member-5
+nilsa-ileana-pedanou
 overview
 the-common-form-of-team-activity-in-mban
 the-importance-of-team-collaboration
