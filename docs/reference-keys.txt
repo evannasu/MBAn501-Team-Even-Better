@@ -1,5 +1,6 @@
 fig:unnamed-chunk-4
 fig:unnamed-chunk-5
+fig:unnamed-chunk-6
 about
 usage
 render-book
@@ -8,7 +9,7 @@ introduction
 about-us
 tong-su
 lida-zhang
-team-member-3
+lilia-bei
 team-member-4
 nilsa-ileana-pedanou
 overview
