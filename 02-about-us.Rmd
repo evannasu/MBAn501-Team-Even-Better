@@ -40,8 +40,25 @@ knitr::include_graphics(rep("img_lida.jpg"))
 
 - 1 Fun Fact: I have traveled to 15 countries in 4 continents including Middle East, Western Europe, and New Zealand
 
-## Team member 3
+## Lilia Bei
 
+```{r echo=FALSE, out.height="20%", out.width="20%", fig.cap="This is me!"}
+knitr::include_graphics(rep("lilia.png"))
+```
+
+- Name: **Lilia Bei**
+
+- Email: yangbei@umich.edu
+
+- Education:
+
+  + University of Michigan, Master of Business Analytics, Apr 2023
+
+  + University of Michigan, B.A. in Communication and Media, Apr 2022
+
+- Hobbies: movies, music, tennis, shopping
+
+- 1 Fun Fact: I am afraid of cats, especially black cats, and balloons (becasue of the popping sound)
 
 ## Team member 4
 
