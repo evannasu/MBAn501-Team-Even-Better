@@ -1,6 +1,6 @@
 # About us
 
-## Team member 1
+## Tong Su
 
 ```{r out.height="20%", out.width="20%", fig.cap="This is me!"}
 knitr::include_graphics(rep("tong.png"))
@@ -20,7 +20,7 @@ knitr::include_graphics(rep("tong.png"))
 
 - 1 Fun Fact: I was the cheerleader of my college at my undergraduate school.
 
-## Team member 2
+## Lida Zhang
 
 ```{r out.height="20%", out.width="20%", fig.cap="This is me!"}
 knitr::include_graphics(rep("img_lida.jpg"))
@@ -46,7 +46,7 @@ knitr::include_graphics(rep("img_lida.jpg"))
 ## Team member 4
 
 
-## Team member 5
+## Nilsa Ileana Pedanou
 ![](/Users/nilsapedanou/Downloads/Headshot.png){width=30%}
 
 
