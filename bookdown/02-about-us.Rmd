@@ -47,3 +47,19 @@ knitr::include_graphics(rep("img_lida.jpg"))
 
 
 ## Team member 5
+![](/Users/nilsapedanou/Downloads/Headshot.png){width=30%}
+
+
+- Name: **Nilsa Ileana Pedanou**
+
+- Email: npedanou@umich.edu
+
+- Education:
+
+  + University of Michigan, Master of Business Analytics, Apr 2023
+
+  + University of Michigan, Bachelor of Science in Engineering - Chemical Engineering, Apr 2022
+
+- Hobbies: Baking, Working Out, Sleeping, Puzzles, Talking with Family
+
+- 1 Fun Fact: I have very vivid dreams, and I one day hope to make a movie about one.
