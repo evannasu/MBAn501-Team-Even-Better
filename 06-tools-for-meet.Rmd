@@ -1,0 +1,43 @@
+# Tools for messaging and virtual meeting
+
+## Zoom
+
+### Introduction
+
+### Main features
+
+### Who tends to love it?
+
+### Tutorial
+
+## GroupMe
+
+### Introduction
+
+### Main features
+
+### Who tends to love it?
+
+## Microsoft Teams
+
+### Introduction
+
+### Main features
+
+### Who tends to love it?
+
+## Slack
+
+### Introduction
+
+### Main features
+
+### Who tends to love it?
+
+## When2Meet
+
+### Introduction
+
+### Main features
+
+### Who tends to love it?
