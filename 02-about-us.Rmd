@@ -83,7 +83,9 @@ knitr::include_graphics(rep("Yining.jpg"))
 
 ## Nilsa Ileana Pedanou
 ![](/Users/nilsapedanou/Downloads/Headshot.png){width=30%}
-
+```{r echo=FALSE, out.height="20%", out.width="20%", fig.cap="This is me!"}
+knitr::include_graphics(rep("Nilsa.jpg"))
+```
 
 - Name: **Nilsa Ileana Pedanou**
 
