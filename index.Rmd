@@ -1,5 +1,5 @@
 --- 
-title: "Team collaboration and management softwares"
+title: "Team Collaboration and Management Software"
 author: "Team Even Better"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -21,5 +21,5 @@ github-repo: rstudio/bookdown-demo
 knitr::include_graphics(rep("Ross_School_of_Business_logo.png"))
 ```
 
-This is a _Team collaboration and management softwares_ book written in **R Markdown**. 
+This is a _Team Collaboration and Management Software_ handbook written by a group of **Michigan Ross MBAn students** in R Markdown. 
 
