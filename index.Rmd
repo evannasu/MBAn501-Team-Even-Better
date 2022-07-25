@@ -21,5 +21,5 @@ github-repo: rstudio/bookdown-demo
 knitr::include_graphics(rep("Ross_School_of_Business_logo.png"))
 ```
 
-This is a _Team collaboration and management softwares_ book written in **Markdown**. 
+This is a _Team collaboration and management softwares_ book written in **R Markdown**. 
 
