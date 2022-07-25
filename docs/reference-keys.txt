@@ -78,3 +78,4 @@ main-features-12
 who-tends-to-love-it-12
 summary-tables-and-graphs-of-user-feedback-and-suggestions
 parts
+fig:unnamed-chunk-7
