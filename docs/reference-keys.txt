@@ -80,3 +80,7 @@ main-features-12
 who-tends-to-love-it-12
 summary-tables-and-graphs-of-user-feedback-and-suggestions
 parts
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
+fig:unnamed-chunk-3
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
