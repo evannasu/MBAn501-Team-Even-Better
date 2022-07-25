@@ -58,7 +58,7 @@ knitr::include_graphics(rep("lilia.png"))
 
 - Hobbies: movies, music, tennis, shopping
 
-- 1 Fun Fact: I am afraid of cats, especially black cats, and balloons (becasue of the popping sound)
+- 1 Fun Fact: I am afraid of cats, especially black cats, and balloons (because of the popping sound)
 
 ## Yining Zheng
 
@@ -74,7 +74,7 @@ knitr::include_graphics(rep("Yining.jpg"))
 
   + University of Michigan, Master of Business Analytics, Apr 2023
 
-  + BNU-HKBU United International College,Bachelor of Accounting, June 2022
+  + BNU-HKBU United International College, Bachelor of Accounting, Jun 2022
 
 - Hobbies: Swimming, Traveling, Shopping, Sleeping
 
