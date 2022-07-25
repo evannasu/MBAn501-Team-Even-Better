@@ -76,7 +76,7 @@ knitr::include_graphics(rep("Yining.jpg"))
 
   + BNU-HKBU United International College,Bachelor of Accounting, June 2022
 
-- Hobbies: movies, music, tennis, shopping
+- Hobbies: Swimming, Traveling, Shopping, Sleeping
 
 - 1 Fun Fact: Thrill-seeking, like watching horror movies, going to haunted houses, and wanting to try bungee jumping and skydiving.
 
