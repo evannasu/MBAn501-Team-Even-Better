@@ -60,7 +60,25 @@ knitr::include_graphics(rep("lilia.png"))
 
 - 1 Fun Fact: I am afraid of cats, especially black cats, and balloons (becasue of the popping sound)
 
-## Team member 4
+## Yining Zheng
+
+```{r echo=FALSE, out.height="20%", out.width="20%", fig.cap="This is me!"}
+knitr::include_graphics(rep("Yining.jpg"))
+```
+
+- Name: **Yining Zheng**
+
+- Email: haileyz@umich.edu
+
+- Education:
+
+  + University of Michigan, Master of Business Analytics, Apr 2023
+
+  + BNU-HKBU United International College,Bachelor of Accounting, June 2022
+
+- Hobbies: movies, music, tennis, shopping
+
+- 1 Fun Fact: Thrill-seeking, like watching horror movies, going to haunted houses, and wanting to try bungee jumping and skydiving.
 
 
 ## Nilsa Ileana Pedanou
