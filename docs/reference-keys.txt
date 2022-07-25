@@ -3,6 +3,7 @@ fig:unnamed-chunk-3
 fig:unnamed-chunk-4
 fig:unnamed-chunk-5
 fig:unnamed-chunk-6
+fig:unnamed-chunk-7
 welcome
 introduction
 about-us
@@ -78,4 +79,3 @@ main-features-12
 who-tends-to-love-it-12
 summary-tables-and-graphs-of-user-feedback-and-suggestions
 parts
-fig:unnamed-chunk-7
