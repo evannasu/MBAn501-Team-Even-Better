@@ -10,10 +10,21 @@
 
 ### Tutorial
 
-## Colab
+## Google Colab
 
 ### Introduction
+Google Colab is a product from Google Research. It allows anybody to write and execute python code through the browser, and to save notebooks on the cloud. It requires no set up and has an excellent free version. 
 
-### Main features
+Official website: https://colab.research.google.com/
+
+### Strengths
+Easy to write and execute python code: All you need to do is to visit the Google Colab page in your browser and log in your google account. Then you can start to write and execute your python code. Colab is shipped with several pre-installed data libraries, such as Numpy, Pandas, Matplotlib. It also provides pre-installed machine learning libraries, including TensorFlow, and PyTorch. Thus, Google Colab is especially well-suited for machine learning and data analysis. 
+
+Files saved on the cloud: All of your Google Colab notebooks are saved under your Google Drive account, just like your Google Docs and Google Sheets files. Therefore, you can access to your notebooks from any device with your Google account log-in. 
+
+Collaboration: If you are working with multiple developers on a project, it is great to use Google Colab. Just like collaborating on a Google Docs document, you can co-code with multiple developers using a Google Colab notebook. Besides, you can share your completed work with other developers.
+
+### Weaknesses
+
 
 ### Who tends to love it?
