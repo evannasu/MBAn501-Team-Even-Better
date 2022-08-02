@@ -1,6 +1,12 @@
 # Tools for project management
 
-## Jira
+## Comparing 3 Project Management Software Products: Strengths and Weaknesses
+
+```{r echo=FALSE, fig.cap="Test!"}
+knitr::include_graphics(rep("img/img_test.png"))
+```
+
+## Clickup
 
 ### Introduction
 
@@ -10,14 +16,6 @@
 
 ### Tutorial
 
-## Teamwork
-
-### Introduction
-
-### Main features
-
-### Who tends to love it?
-
 ## Asana
 
 ### Introduction
@@ -26,7 +24,7 @@
 
 ### Who tends to love it?
 
-## Notion
+## Jira
 
 ### Introduction
 
