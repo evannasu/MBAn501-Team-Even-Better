@@ -9,15 +9,71 @@ Add an unnumbered part: `# (PART\*) Act one {-}` (followed by `# A chapter`)
 Add an appendix as a special kind of un-numbered part: `# (APPENDIX) Other stuff {-}` (followed by `# A chapter`). Chapters in an appendix are prepended with letters instead of numbers.
 
 
-## Google Suite(Drive/Docs/Sheets/Slides)
+## Google Workspace 
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+- Google Drive (a file storage)
+
+- Google Docs (a word processor)
+
+- Google Slides (a presentation program)
+
+- Google Sheets (a spreadsheet)
 
 ### Introduction
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+```{r echo=FALSE, fig.cap="Google Workspace", out.height="70%", out.width="50%"}
+knitr::include_graphics(rep("img/Google Workspace.png"))
+```
+
+Google Workspace is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google.
 
 ### Main features
+
+### Strengths
+
+- Real-time collaboration
+
+  + Work with teams concurrently and changes go live constantly
+  
+- Automatically save
+
+  + Google Docs/Slides/Sheets can automatically save all of the changes
+  
+- Always Accessible
+
+  + Users can access to Google Docs/Slides/Sheets on any device and there is no need to install any software
+  
+- Easy to share
+
+  + No need to worry about the size of the file exceeding the size limitation. Users can directly share the link
+  
+  + Easily set user permission levels to designate who can view, comment, or edit the document as well as permissions to download the specific document
+  
+- Unlimited revision history
+
+  + Allow users to track the revision history to see what others have changed
+  
+- Unlimited storage
+
+  + Using umich edu Google account to log into Google Drive can get unlimited file storage
+  
+### Weakness
+
+- Internet connectivity
+
+  + Google Workspace run in a web browser, which means users will lose access to the docs without internet connection
+  
+- Lack of advanced features
+  
+  + Google Workspace do not have the same full features as Microsoft Office Software which may not suffice the needs of advanced presentation creators 
+
+- A loss in formatting when importing
+
+  + There is a loss in formatting when importing files into Google Slides/Sheets
+  
+- Geographic restrictions
+
+  + Google restricts access to some of its business services in certain countries or regions
 
 ### Who tends to love it?
 

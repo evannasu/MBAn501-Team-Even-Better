@@ -78,3 +78,6 @@ main-features-10
 who-tends-to-love-it-9
 summary-tables-and-graphs-of-user-feedback-and-suggestions
 parts
+google-workspace
+weakness
+strengths-2
