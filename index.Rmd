@@ -18,7 +18,7 @@ github-repo: rstudio/bookdown-demo
 # Welcome! 
 
 ```{r echo=FALSE}
-knitr::include_graphics(rep("Ross_School_of_Business_logo.png"))
+knitr::include_graphics(rep("img/Ross_School_of_Business_logo.png"))
 ```
 
 This is a _Team Collaboration and Management Software_ handbook written by a group of **Michigan Ross MBAn students** in R Markdown. 
