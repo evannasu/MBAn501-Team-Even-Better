@@ -1,18 +1,26 @@
 # Tools for project management
 
-## Comparing 3 Project Management Software Products: Strengths and Weaknesses
+## Comparison: Strengths and Weaknesses
 
-```{r echo=FALSE, fig.cap="Test!"}
-knitr::include_graphics(rep("img/img_test.png"))
-```
+* Price
+All of the three project management software products have both free and premium versions. ClickUp and Jira have pricing plans mainly based on team size and usage, while Asana charges according to feature upgrade. 
 
-## Clickup
+* Features
+ClickUp covers all 16 top features for project management, including Agile Methodologies, Kanban Board, Task Management, etc. Asana covers 15 of them except for **Time & Expense Tracking**. Jira only covers 13, leaving out **Client Portal**, **Cost-to-Completion Tracking** and **Customizable Templates**.
+
+* Deployment
+Since Jira features more on software development needs, it has the most deployment methods including **On-Premise Windows** and **Linux**, while Click and Asana don't. Asana also does not support **Desktop Linux** system.
+
+For more detailed comparison, please refer to this [link](https://www.capterra.com/project-management-software/compare/120550-158833-19319/Asana-vs-ClickUp-vs-JIRA).
+
+## ClickUp
 
 ### Introduction
 
 ### Main features
 
-### Who tends to love it?
+### More resources
+* [ClickUp University](https://university.clickup.com/)
 
 ### Tutorial
 
@@ -22,7 +30,8 @@ knitr::include_graphics(rep("img/img_test.png"))
 
 ### Main features
 
-### Who tends to love it?
+### More resources
+* [Asana Academy](https://academy.asana.com/)
 
 ## Jira
 
@@ -30,4 +39,5 @@ knitr::include_graphics(rep("img/img_test.png"))
 
 ### Main features
 
-### Who tends to love it?
+### More resources
+* [Atlassian University for Jira](https://university.atlassian.com/student/path/871316-learn-jira-with-atlassian-university)
