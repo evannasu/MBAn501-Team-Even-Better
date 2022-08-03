@@ -3,20 +3,22 @@
 ## Github
 
 ### Introduction
-
 GitHub is a platform for hosting, storing, and editing code. It facilitates projects organization and team collaboration. The platform is built around "Repositories" used to organize code for projects. 
+
+Here is the official website: [https://github.com/](https://github.com/).
+
+MBAn students will use Github for team projects in <MBAn501 Team and software management> in the summer term. And students can also find many resources about programming on the platform. 
 
 ### Main features
 
 
 
 ### Strengths
+- Easy Project Management
 
-Easy Project Management
+- Easy Code Hosting
 
-Easy Code Hosting
-
-Effective Team Management
+- Effective Team Management
 
 ### Weaknesses
 
@@ -27,11 +29,9 @@ Effective Team Management
 
 - Add new collaborators
 
-- Create your profile README
+- Commit & Push & Pull
 
-- Commit & Push
-
-- Pull
+- More resources
 
 
 ## Google Colab
