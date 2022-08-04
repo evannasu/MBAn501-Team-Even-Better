@@ -14,7 +14,12 @@ MBAn students will use Github for team projects in <MBAn501 Team and software ma
 
 
 
-### Strengths
+### Strengths & Weaknesses
+  
+| Strengths | Weaknesses |
+| :--- | :--- |
+| -Easy code hosting and writing | -Difficult to use for beginners |
+| -Effective project management and team collaboration | -Merge conflicts sometimes occur |
   
 - Easy code hosting and writing
   
@@ -22,26 +27,16 @@ MBAn students will use Github for team projects in <MBAn501 Team and software ma
 
   + Github also supports Markdown for issues tracking and users comments. And a README file enables users to communicate important information about the projects. 
 
-- Easy Project Management
+- Effective project management and team collaboration
   
   + Developers and project managers can work on projects together in Github using the "Add collaborators" tool in repositories. 
   
-  + Developers and project managers can collect user feedbacks and organize tasks using the "issue" feature. They can also use it to priorize issues. 
+  + Developers and project managers can collect user feedbacks and organize tasks using the "issue" feature. They can also use it to priorize issues. Team members can ask and answer questions, share codes using the "discussion" feature. 
   
   + Version control of Github tracks what and when each developer changes, and allows users to roll back individual changes without affecting other changes down the timeline. 
   
-- Effective Team Management
-  
-  + Team members can ask and answer questions, share codes using the "discussion" feature. 
-  
   + Developers can create a “branch” to work on their changes. Once they've finished, they can merge the branch back into the master branch. 
   
-
-### Weaknesses
-  
-- Difficult to use for beginners
-  
-- Merge conflicts sometimes occur
 
 ### Tutorial
   
