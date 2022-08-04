@@ -34,13 +34,12 @@ tools-for-programming
 github
 introduction-3
 main-features-2
-strengths-1
-weaknesses
+strengths-weaknesses
 tutorial-1
 google-colab
 introduction-4
-strengths-2
-weaknesses-1
+strengths-1
+weaknesses
 tools-for-messaging-and-virtual-meeting
 strengths-and-weaknesses
 zoom
@@ -65,7 +64,7 @@ introduction-9
 main-features-7
 who-tends-to-love-it-6
 tools-for-project-management
-comparison-strengths-and-weaknesses
+strengths-and-weaknesses-1
 clickup
 introduction-10
 main-features-8

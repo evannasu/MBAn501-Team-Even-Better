@@ -38,7 +38,7 @@ Zoom is a virtual communication platform that allows you to connect with others 
 Follow these steps to install zoom:
 
 
-Advanced in-meeting settings can be found [here] (https://support.zoom.us/hc/en-us/sections/4414458840077-Advanced-In-Meeting-Settings)
+Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-us/sections/4414458840077-Advanced-In-Meeting-Settings).
 
 
 ## GroupMe

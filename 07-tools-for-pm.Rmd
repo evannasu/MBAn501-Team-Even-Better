@@ -1,15 +1,14 @@
 # Tools for project management
 
-## Comparison: Strengths and Weaknesses
+## Strengths and Weaknesses
 
-* Price
-All of the three project management software products have both free and premium versions. ClickUp and Jira have pricing plans mainly based on team size and usage, while Asana charges according to feature upgrade. 
+| Platform | ClickUp | Asana | Jira |
+| :--- | :--- | :--- | :--- |
+| Prices <br> (user/month) | Basic: \$0 <br> Unlimited: \$9 <br> Business: \$19 <br> Business Plus: \$29 | Basic: \$0 <br> Premium: \$10.99 <br> Business: \$24.99 |  Basic: \$0 <br> Standard: \$7.50 <br> Premium: \$14.50 |
+| Features | <input type="checkbox" checked> Agile Methodologies </input> <br> <input type="checkbox" checked> Client Portal </input> <br> <input type="checkbox" checked> Collaboration Tools </input> <br> <input type="checkbox" checked> Customizable Templates </input> <br> <input type="checkbox" checked> Kanban Board </input> <br> <input type="checkbox" checked> Time & Expense Tracking </input> | <input type="checkbox" checked> Agile Methodologies </input> <br> <input type="checkbox" checked> Client Portal </input> <br> <input type="checkbox" checked> Collaboration Tools </input> <br> <input type="checkbox" checked> Customizable Templates </input> <br> <input type="checkbox" checked> Kanban Board </input> <br> <input type="checkbox" unchecked> Time & Expense Tracking </input> |  <input type="checkbox" checked> Agile Methodologies </input> <br> <input type="checkbox" unchecked> Client Portal </input> <br> <input type="checkbox" checked> Collaboration Tools </input> <br> <input type="checkbox" unchecked> Customizable Templates </input> <br> <input type="checkbox" checked> Kanban Board </input> <br> <input type="checkbox" checked> Time & Expense Tracking </input> |
+| Deployment | <input type="checkbox" checked> Cloud </input> <br>  <input type="checkbox" checked> Desktop - Mac </input> <br> <input type="checkbox" checked> Desktop - Windows </input> <br> <input type="checkbox" checked> Desktop - Linux </input> <br> </input> <br> <input type="checkbox" unchecked> On-Premise </input> <br> <input type="checkbox" unchecked> On-Premise - Linux </input> <br> <input type="checkbox" checked> Mobile </input> | <input type="checkbox" checked> Cloud </input> <br>  <input type="checkbox" checked> Desktop - Mac </input> <br> <input type="checkbox" checked> Desktop - Windows </input> <br> <input type="checkbox" unchecked> Desktop - Linux </input> <br> </input> <br> <input type="checkbox" unchecked> On-Premise - Windows </input> <br> <input type="checkbox" unchecked> On-Premise - Linux </input> <br> <input type="checkbox" checked> Mobile </input> | <input type="checkbox" checked> Cloud </input> <br>  <input type="checkbox" checked> Desktop - Mac </input> <br> <input type="checkbox" checked> Desktop - Windows </input> <br> <input type="checkbox" checked> Desktop - Linux </input> <br> </input> <br> <input type="checkbox" checked> On-Premise - Windows </input> <br> <input type="checkbox" checked> On-Premise - Linux </input> <br> <input type="checkbox" checked> Mobile </input> |
+| Top Customers | Samsung <br> Booking.com <br> IBM <br> Belmond | Danone <br> Deloitte <br> NASA <br> GE | Square <br> eBay <br> Spotify <br> CISCO |
 
-* Features
-ClickUp covers all 16 top features for project management, including Agile Methodologies, Kanban Board, Task Management, etc. Asana covers 15 of them except for **Time & Expense Tracking**. Jira only covers 13, leaving out **Client Portal**, **Cost-to-Completion Tracking** and **Customizable Templates**.
-
-* Deployment
-Since Jira features more on software development needs, it has the most deployment methods including **On-Premise Windows** and **Linux**, while Click and Asana don't. Asana also does not support **Desktop Linux** system.
 
 For more detailed comparison, please refer to this [link](https://www.capterra.com/project-management-software/compare/120550-158833-19319/Asana-vs-ClickUp-vs-JIRA).
 

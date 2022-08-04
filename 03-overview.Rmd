@@ -28,7 +28,9 @@ Effective teamwork in the workplace is important for many reasons but one of the
 knitr::include_graphics(rep("img/overview_teamwork.jpg"))
 ```
 
-> <font size=5>5 Elements of Effective Teamwork </font> 
+<br>
+
+ <font size=5> Five Elements of Effective Teamwork </font> 
 
 - **Leadership** 
 
@@ -60,8 +62,9 @@ Analysts predict the value of the collaboration software market to reach **$13.5
 knitr::include_graphics(rep("img/overview_tool.jpg"))
 ```
 
+<br>
 
-> <font size=5> The Advantages of Collaboration Tools </font> 
+<font size=5> The Advantages of Collaboration Tools </font> 
 
 - **Save time and resources**
 
