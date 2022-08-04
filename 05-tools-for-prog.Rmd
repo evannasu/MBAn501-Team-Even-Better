@@ -12,7 +12,26 @@ MBAn students will use Github for team projects in <MBAn501 Team and software ma
 
 ### Main features
 
+- Hold code in repositories 
+Users use Github to hold and organize projects. All the code and documentation are stored in "Repositories". There are many tools and features for users to customize their repositories and manage their projects. 
 
+| Tools | Details |
+| :--- | :--- |
+| Add collaborators | Developers and project managers can work on projects together in Github using the "Add collaborators" tool. |
+| Issue | Developers and project managers can collect user feedbacks and organize tasks using the "issue" feature. They can also use it to priorize issues. |
+| Branch | Developers can create a “branch” to work on their changes. Once they've finished, they can merge the branch back into the master branch. |
+
+- Version control of Github
+Version control of Github tracks what and when each developer changes, and allows users to roll back individual changes without affecting other changes down the timeline. 
+
+- Open-source projects resources
+GitHub is one of the largest communities for the world's top developers, where you can find almost anything you want. There are many great, famous open source projects shared on it, and you can use and download them for free while abiding by their Licenses.
+
+- Get help from other developers
+Developers can ask and answer questions, share codes using the "discussion" feature. As you share your codes, other developers can participate to help you fix bugs, improve project features and quality. 
+
+- Use Github Pages to build your websites
+GitHub Pages provides a static web hosting service that fetches HTML, CSS, and JavaScript files directly from repositories on GitHub, then builds and publishes the site. 
 
 ### Strengths & Weaknesses
   
@@ -20,23 +39,7 @@ MBAn students will use Github for team projects in <MBAn501 Team and software ma
 | :--- | :--- |
 | -Easy code hosting and writing | -Difficult to use for beginners |
 | -Effective project management and team collaboration | -Merge conflicts sometimes occur |
-  
-- Easy code hosting and writing
-  
-  + Users use Github to hold websites and organize projects. All the code and documentation are stored in "Repositories". There are many tools and features for users to customize their repositories and manage their projects. 
 
-  + Github also supports Markdown for issues tracking and users comments. And a README file enables users to communicate important information about the projects. 
-
-- Effective project management and team collaboration
-  
-  + Developers and project managers can work on projects together in Github using the "Add collaborators" tool in repositories. 
-  
-  + Developers and project managers can collect user feedbacks and organize tasks using the "issue" feature. They can also use it to priorize issues. Team members can ask and answer questions, share codes using the "discussion" feature. 
-  
-  + Version control of Github tracks what and when each developer changes, and allows users to roll back individual changes without affecting other changes down the timeline. 
-  
-  + Developers can create a “branch” to work on their changes. Once they've finished, they can merge the branch back into the master branch. 
-  
 
 ### Tutorial
   
@@ -62,7 +65,7 @@ Google Colab is a product from Google Research. It allows anybody to write and e
 Here is the official website: [https://colab.research.google.com/](https://colab.research.google.com/)
 
 MBAn students will use Google Colab frequently in <MBAn550 Intro To Data Programming> in the summer term, and are likely to use it in the fall term in order to work on Python projects. And we also recommend anyone who is new to Python programming to use Google Colab due to the strengths mentioned below. 
-
+  
 ### Strengths
   
 - Easy to write and execute python code
