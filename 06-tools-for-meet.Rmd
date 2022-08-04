@@ -1,14 +1,45 @@
 # Tools for messaging and virtual meeting
 
+## Strengths and Weaknesses
+
+| Platform | Strengths | Weaknesses |
+| :--- | :--- | :--- |
+| Zoom | -Diverse platform that is constantly being upgraded<br>-Effectively mimics face-to-face meetings | -Functionality limited by internet connection |
+| GroupMe | -Ability to access messages sent before having joined the message group<br>-Ability to message people individually or create public/private groups<br>-Can join all pages associated with your university/organization | -Inability to create sub threads<br>-Unable to connect to external platforms |
+| Microsoft Teams | -Combined messaging and virtual meeting platform<br>-Can see status/availability of teammates<br>-Can be connected to Google suite/Microsoft office |  |
+| Slack | -Ability to create and switch between workspaces<br>-Can join all sub threads in a workspace<br>-Can be connected to Google suite |  |
+| When2meet | -Easy to use | -Usefulness decreases as number of participants increases<br>-Can be accessed by random people |
+
 ## Zoom
 
 ### Introduction
 
+Zoom is a virtual communication platform that allows you to connect with others through video or audio conferencing. 
+
 ### Main features
+
+- Chat: Allows participants to privately message one another or send a message to all participants of the meeting.
+- Participants: See all participant names, audio status, and video status. Host can turn off video and audio of the participants.
+- Share Screen: Allows people to share different screen views. Must be enabled by the host. 
+- Live Transcript: Provides auto-generated captions throughout the meeting. Must be enabled by the host. 
+- Record: The hosts of zoom meetings have the ability to enable recording of the session. The session will notify all participants that recording is on. The recording captures all screens shown throughout the meeting, audio, and live transcript. Zoom is a cloud based platform, therefore, recording can be saved to a cloud or to your computer. 
+- Breakout Rooms: The host of the meeting can divide participants into separate sessions. You can run up to 50 sessions within a single zoom meeting. Breakout rooms allow participants to work in smaller groups while allowing the host to move between rooms. 
+- Polls: Gathers the responses from meeting participants through single choice or multiple choice polling questions launched by the host. The host can download the results of the polls to use after meetings.
 
 ### Who tends to love it?
 
+- Students:
+- Teachers:
+- Professionals:
+- Families: 
+
 ### Tutorial
+
+Follow these steps to install zoom:
+
+
+Advanced in-meeting settings can be found [here] (https://support.zoom.us/hc/en-us/sections/4414458840077-Advanced-In-Meeting-Settings)
+
 
 ## GroupMe
 

@@ -42,6 +42,7 @@ introduction-4
 strengths-2
 weaknesses-1
 tools-for-messaging-and-virtual-meeting
+strengths-and-weaknesses
 zoom
 introduction-5
 main-features-3
