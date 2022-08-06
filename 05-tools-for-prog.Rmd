@@ -65,31 +65,52 @@ Google Colab is a product from Google Research. It allows anybody to write and e
 Here is the official website: [https://colab.research.google.com/](https://colab.research.google.com/)
 
 MBAn students will use Google Colab frequently in <MBAn550 Intro To Data Programming> in the summer term, and are likely to use it in the fall term in order to work on Python projects. And we also recommend anyone who is new to Python programming to use Google Colab due to the strengths mentioned below. 
-  
-### Strengths
-  
-- Easy to write and execute python code
-  
-  + All you need to do is to visit the Google Colab page in your browser and log in your google account. Then you can start to write and execute your python code. 
-  
-  + Colab is shipped with several pre-installed data libraries, such as Numpy, Pandas, Matplotlib. It also provides pre-installed machine learning libraries, including TensorFlow, and PyTorch. Thus, Google Colab is especially well-suited for machine learning and data analysis. 
 
-- Files saved on the cloud
-  
-  + All of your Google Colab notebooks are saved under your Google Drive account, just like your Google Docs and Google Sheets files. Therefore, you can access to your notebooks from any device with your Google account log-in.
-  
-  + You can easily share your files through Google Drive. 
 
-- Collaboration
-  
-  + If you are working with multiple developers on a project, it is great to use Google Colab. Just like collaborating on a Google Docs document, you can co-code with multiple developers using a Google Colab notebook.
-  
-  + You can share your completed work with other developers.
 
-### Weaknesses
-  
-- Limited Space & Time
-  
-  + Google Colab stores files in Google Drive with a free space of 15GB; however, working on bigger datasets requires more space, making it difficult to execute.
 
-- Only for Python coders
+### Main features
+
+- Enter and execute code or text with cells
+
+A cell is a place where you enter either your code or text to be executed. You can easily add, edit and run cells in a Colab notebook. You can also move a cell by selecting it and clicking Cell Up or Cell Down in the top toolbar.
+
+```{r echo=FALSE, fig.cap="Colab cell"}
+knitr::include_graphics(rep("img/prog-cl-cell.png"))
+```
+
+- Files saved on the Google Drive or GitHub
+
+All of your Google Colab notebooks are saved under your Google Drive account, just like your Google Docs and Google Sheets files. Therefore, you can access your notebooks from any device with your Google account log-in.
+You can also save it to your GitHub repository.
+Both options enable you to share your projects easily with other developers.
+
+```{r echo=FALSE, fig.cap="Colab save options"}
+knitr::include_graphics(rep("img/prog-cl-save.png"))
+```
+
+- Import libraries without installing them
+
+Colab is shipped with several pre-installed data libraries, such as Numpy, Pandas, Matplotlib. It also provides pre-installed machine learning libraries, including TensorFlow, and PyTorch. Thus, Google Colab is especially well-suited for machine learning and data analysis. 
+
+- Automatic completions and exploring code
+
+Colab provides automatic completions to explore attributes of Python objects. It’s very useful when you are not sure about the functions. As an example, first run the following cell to import the pandas module. Then, as we enter “pd.read”, we can see many automatic completions below, and we can use “Tab” to choose the function we want. 
+```{r echo=FALSE, fig.cap="Colab Tab completion"}
+knitr::include_graphics(rep("img/prog-cl-tab.png"))
+```
+
+- More options for your project management
+
+You can also add a “section header cell” to make your projects easier to read. You can use a “Table of contents” to make your projects more contextualized. Furthermore, you can comment on your code by selecting a cell and clicking the comment button in the toolbar above the top-right corner of the cell. 
+
+```{r echo=FALSE, fig.cap="Colab Table of content"}
+knitr::include_graphics(rep("img/prog-cl-toc.png"))
+```
+
+### Strengths & Weaknesses
+
+| Strengths | Weaknesses |
+| :--- | :--- |
+| - No setup, easy to write and execute python code | - Limited space & time with the free version|
+| - Useful team collaboration and project management tool. Just like collaborating on a Google Docs document, you can co-code with multiple developers using a Google Colab notebook. | - Only for Python coders |
