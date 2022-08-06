@@ -37,8 +37,8 @@ GitHub Pages provides a static web hosting service that fetches HTML, CSS, and J
   
 | Strengths | Weaknesses |
 | :--- | :--- |
-| -Easy code hosting and writing | -Difficult to use for beginners |
-| -Effective project management and team collaboration | -Merge conflicts sometimes occur |
+| Easy code hosting and writing | Difficult to use for beginners |
+| Effective project management and team collaboration | Merge conflicts sometimes occur |
 
 
 ### Tutorial
@@ -54,7 +54,7 @@ GitHub Pages provides a static web hosting service that fetches HTML, CSS, and J
 - Commit & Push & Pull
 
 - More resources
-
+For more advanced tutorials about Colab, you can refer to [GitHub Tutorials](https://docs.github.com/en)
 
 ## Google Colab
 
@@ -64,10 +64,7 @@ Google Colab is a product from Google Research. It allows anybody to write and e
 
 Here is the official website: [https://colab.research.google.com/](https://colab.research.google.com/)
 
-MBAn students will use Google Colab frequently in <MBAn550 Intro To Data Programming> in the summer term, and are likely to use it in the fall term in order to work on Python projects. And we also recommend anyone who is new to Python programming to use Google Colab due to the strengths mentioned below. 
-
-
-
+MBAn students will use Google Colab frequently in <MBAn550 Intro To Data Programming> in the summer term, and are likely to use it in the fall term in order to work on Python projects. And we also recommend anyone who is new to Python programming to use Google Colab. 
 
 ### Main features
 
@@ -112,5 +109,8 @@ knitr::include_graphics(rep("img/prog-cl-toc.png"))
 
 | Strengths | Weaknesses |
 | :--- | :--- |
-| - No setup, easy to write and execute python code | - Limited space & time with the free version|
-| - Useful team collaboration and project management tool. Just like collaborating on a Google Docs document, you can co-code with multiple developers using a Google Colab notebook. | - Only for Python coders |
+| No setup, easy to write and execute python code. | Limited space & time with the free version.|
+| Useful team collaboration and project management tool. Just like collaborating on a Google Docs document, you can co-code with multiple developers using a Google Colab notebook. | Only for Python coders. |
+
+### More resources
+For more advanced tutorials about Colab, you can refer to [Colab Tutorials](https://colab.research.google.com/?hl=en#scrollTo=Nma_JWh-W-IF)
