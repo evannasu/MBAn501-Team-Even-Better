@@ -47,9 +47,50 @@ GitHub Pages provides a static web hosting service that fetches HTML, CSS, and J
 
 - Start a repository 
 
+After you sign in your GitHub account, you can see the “Create a new repository” button in the middle of the home page. Click it, then you can enter your “Repository name”, description, and other settings.
+Although “Add a README file” is optional, we recommend you to create one that describes your project briefly to the GitHub users.
+
+```{r echo=FALSE, fig.cap="GitHub Start a repository 1"}
+knitr::include_graphics(rep("img/prog-gh-start.png"))
+```
+
+```{r echo=FALSE, fig.cap="GitHub Start a repository 2"}
+knitr::include_graphics(rep("img/prog-gh-start2.png"))
+```
+
 - Add new collaborators
-  
-- Create a README file
+
+After you create your repository, you can view your repository by clicking the right upper corner of the page to enter “Your repositories”, or to enter “ Your profile” and then “Repositories”. 
+
+```{r echo=FALSE, fig.cap="GitHub Add new collaborators 1"}
+knitr::include_graphics(rep("img/prog-gh-start3.png"))
+```
+
+Then, you can click “Setting” to manage your repository. We recommend you to add all your team members by going to “Collaborators”. 
+
+```{r echo=FALSE, fig.cap="GitHub Add new collaborators 2"}
+knitr::include_graphics(rep("img/prog-gh-add.png"))
+```
+
+-Create an R project
+Then, open your RStudio. Click “File” on the left upper corner of RStudio, then “New Project”. 
+
+```{r echo=FALSE, fig.cap="GitHub Create an R project 1"}
+knitr::include_graphics(rep("img/prog-gh-R.png"))
+```
+
+Choose “Version Control”, then choose “Git”. The next step is to copy the URL link of your repository, and choose the directory of your project. 
+
+```{r echo=FALSE, fig.cap="GitHub Create an R project 2"}
+knitr::include_graphics(rep("img/prog-gh-R2.png"))
+```
+
+```{r echo=FALSE, fig.cap="GitHub Create an R project 3"}
+knitr::include_graphics(rep("img/prog-gh-R3.png"))
+```
+
+Then, everything is done! Now, you can see current files in your repository on the right side of your RStudio. You can also add new files, edit current files in your repository. 
+
 
 - Commit & Push & Pull
 
