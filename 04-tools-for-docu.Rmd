@@ -16,7 +16,7 @@
 knitr::include_graphics(rep("img/Google Workspace.png"))
 ```
 
-Google Workspace is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google. It is recommended for anyone who seek for convenient collaboration tools for teamwork, especially for students and employees.     
+Google Workspace is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google. It is recommended for anyone who seek for convenient collaboration tools for teamwork, especially for existing Google users.     
 
 ### Main features
 
@@ -91,6 +91,8 @@ knitr::include_graphics(rep("img/forms.png"))
 ```{r echo=FALSE, fig.cap="Dropbox", out.height="70%", out.width="50%"}
 knitr::include_graphics(rep("img/dropbox.jpg"))
 ```
+
+Dropbox is a file hosting service operated by the American company Dropbox, Inc. that offers cloud storage, file synchronization, personal cloud, and client software. Dropbox only provides users with 2 GB storage. It is recommended for anyone who seek for convenient collaboration tools for teamwork, especially for anyone who seek for security for files.  
 
 ### Main features
 
