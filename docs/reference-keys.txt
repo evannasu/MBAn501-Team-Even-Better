@@ -92,3 +92,10 @@ main-features-11
 more-resources-3
 summary-tables-and-graphs-of-user-feedback-and-suggestions
 parts
+strengths-and-weaknesses-2
+more-resources-4
+fig:unnamed-chunk-8
+fig:unnamed-chunk-9
+fig:unnamed-chunk-10
+tutorial-4
+more-resources-5

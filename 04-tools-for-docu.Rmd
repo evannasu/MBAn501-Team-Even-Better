@@ -1,14 +1,14 @@
 # Tools for documentation and file sharing
 
+## Strengths and Weaknesses
+
+| Platform | Strengths | Weaknesses |
+| :--- | :------- | :------- |
+| Google Drive | - Real-time collaboration<br>- Always accessible<br>- Easy to share by adding email address or sending links<br>- Unlimited storage with edu email address | - Functionality limited by internet connection |
+| Google Docs/Slides/Sheets | - Real-time collaboration<br>- Automatically save the work<br>- Always accessible<br>- Easy to share by adding email address or sending links<br>- Easy to set user permission levels to designate who can view, comment, or edit the document<br>- Unlimited revision history to see what others have changed | - Functionality limited by internet connection<br>- Lack of advanced features<br>- A loss in formatting/features when importing |
+| Dropbox | - Automatic file backup<br>- Advanced software integration<br>- Offline working capabilities<br>- Commonly used by IT geeks for sharing data<br>- Free to use with edu email address | - Lack of elite-level security<br>- Lack of advanced features<br>- Limited search function |
+
 ## Google Workspace 
-
-- Google Drive (a file storage)
-
-- Google Docs (a word processor)
-
-- Google Slides (a presentation program)
-
-- Google Sheets (a spreadsheet)
 
 ### Introduction
 
@@ -16,64 +16,98 @@
 knitr::include_graphics(rep("img/Google Workspace.png"))
 ```
 
-Google Workspace is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google.
+Google Workspace is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google. It is recommended for anyone who seek for convenient collaboration tools for teamwork, especially for students and employees.     
 
 ### Main features
 
-### Strengths
-
-- Real-time collaboration
-
-  + Work with teams concurrently and changes go live constantly
-  
-- Automatically save
-
-  + Google Docs/Slides/Sheets can automatically save all of the changes
-  
-- Always Accessible
-
-  + Users can access to Google Docs/Slides/Sheets on any device and there is no need to install any software
-  
-- Easy to share
-
-  + No need to worry about the size of the file exceeding the size limitation. Users can directly share the link
-  
-  + Easily set user permission levels to designate who can view, comment, or edit the document as well as permissions to download the specific document
-  
-- Unlimited revision history
-
-  + Allow users to track the revision history to see what others have changed
-  
-- Unlimited storage
-
-  + Using umich edu Google account to log into Google Drive can get unlimited file storage
-  
-### Weakness
-
-- Internet connectivity
-
-  + Google Workspace run in a web browser, which means users will lose access to the docs without internet connection
-  
-- Lack of advanced features
-  
-  + Google Workspace do not have the same full features as Microsoft Office Software which may not suffice the needs of advanced presentation creators 
-
-- A loss in formatting when importing
-
-  + There is a loss in formatting when importing files into Google Slides/Sheets
-  
-- Geographic restrictions
-
-  + Google restricts access to some of its business services in certain countries or regions
-
-### Who tends to love it?
+| Google Workspace | Main Features |
+| :--- | :--------- |
+| Google Drive | - Sync all files<br>- Save to Google Drive<br>- Save Gmail Attachments<br>- Scan Documents <br>- Shared drives to store, search, and access files with a team |
+| Google Docs | - Add-Ons for grammer checks & more<br>- Voice Typing for easier thought processing<br>- Bookmarks for navigating documents<br>- Suggesting Mode<br>- Tag people in comments<br>- Revision history<br>- Conference calls |
+| Google Slides | - Create a master slide<br>- Create a template to share<br>- Linked slides<br>- Import a PowerPoint/Keynote<br>- Insert videos & trim a video length<br>- Autoplay videos<br>- Link Google Sheets |
+| Google Sheets | - Send emails when you comment<br>- Clean up values with CLEAN and TRIM<br>- Integrate with Google Forms<br>- Insert a chart from Google Sheets into a Google Doc<br>- Import data from a websit or RSS feed<br>- Split names and other data<br>- Extend Google Sheets with add-ons|
 
 ### Tutorial
+
+* Google Drive: Build your drive 
+  + [Getting started with Google Dirve](https://youtu.be/P7555XLfHgs)
+
+* Google Docs/Slides/Sheets: Share with others
+
+  + [Share with others](https://youtu.be/25CtYkqamIA)
+  
+* Google Docs: Check word count
+  
+```{r echo=FALSE, fig.cap="check word count", out.height="70%", out.width="50%", fig.align = "center"}
+knitr::include_graphics(rep("img/wordcount1.png"))
+```
+
+* Google Docs: Insert equation
+  
+```{r echo=FALSE, fig.cap="find the equation tab", out.height="70%", out.width="50%", fig.align = "center"}
+knitr::include_graphics(rep("img/equation1.png"))
+```
+
+```{r echo=FALSE, fig.cap="insert your equation", out.height="70%", out.width="50%", fig.align = "center"}
+knitr::include_graphics(rep("img/equation2.png"))
+```
+
+* Google Slides: [Find and import templates from slidesgo](https://slidesgo.com)
+  
+ ```{r echo=FALSE, fig.cap="Download the template", out.height="70%", out.width="50%", fig.align = "center"}
+knitr::include_graphics(rep("img/slidesgo.png"))
+```
+* Google Slides: Import slides 
+  
+ ```{r echo=FALSE, fig.cap="import slides from other files", out.height="70%", out.width="50%", fig.align = "center"}
+knitr::include_graphics(rep("img/importslides.png"))
+```  
+* Google Sheets: Freeze rows and columns
+
+ ```{r echo=FALSE, fig.cap="freeze rows and columns", out.height="70%", out.width="50%", fig.align = "center"}
+knitr::include_graphics(rep("img/freeze.png"))
+```
+
+* Google Sheets: Link to a Google Form
+
+ ```{r echo=FALSE, fig.cap="link to a Google Form", out.height="70%", out.width="50%", fig.align = "center"}
+knitr::include_graphics(rep("img/forms.png"))
+```  
+
+### More resources
+
+* [Tutorials for Google Drive](https://talkbitz.com/google-drive-features/)
+
+* [Tutorials for Google Docs](https://blog.hubspot.com/marketing/google-docs-tips)
+
+* [Tutorials for Google Slides](https://www.risevision.com/blog/20-google-slide-features-you-might-not-use...but-should)
+
+* [Tutorials for Google Sheets](https://www.lovesdata.com/blog/google-sheets-tips)
 
 ## Dropbox
 
 ### Introduction
 
+```{r echo=FALSE, fig.cap="Dropbox", out.height="70%", out.width="50%"}
+knitr::include_graphics(rep("img/dropbox.jpg"))
+```
+
 ### Main features
 
-### Who tends to love it?
+| Dropbox | Main Features |
+| :--- | :--------- |
+| Dropbox | - Add comments to files<br>- Back up your entire desktop and documents folders<br>- Request files via Dropbox<br>- Access previous versions<br>- Remotely delete your files on stolen devices|
+
+### Tutorial
+
+* [Upload and Download files](https://fast.wistia.net/embed/iframe/fhh3n87je6)
+
+* [Share files and folders](https://fast.wistia.net/embed/iframe/cb1w8z1qhm)
+
+* [Request files from others](https://fast.wistia.net/embed/iframe/lsxu4wc346)
+
+* [View team member activity](https://fast.wistia.net/embed/iframe/urby7qwctf)
+
+### More resources
+
+* [Tutorials for Dropbox](https://youtu.be/4Nan6Zt6bzw)
