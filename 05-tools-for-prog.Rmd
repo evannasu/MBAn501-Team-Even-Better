@@ -174,7 +174,9 @@ knitr::include_graphics(rep("img/prog-cl-save.png"))
 
 - Import libraries without installing them
 
-Colab is shipped with several pre-installed data libraries, such as Numpy, Pandas, Matplotlib. It also provides pre-installed machine learning libraries, including TensorFlow, and PyTorch. Thus, Google Colab is especially well-suited for machine learning and data analysis. 
+Colab is shipped with several pre-installed data libraries, such as Numpy, Pandas, Matplotlib. It also provides pre-installed machine learning libraries, including TensorFlow, and PyTorch.
+
+Thus, Google Colab is especially well-suited for machine learning and data analysis. 
 
 - Automatic completions and exploring code
 
