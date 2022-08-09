@@ -42,12 +42,14 @@ GitHub Pages provides a static web hosting service that fetches HTML, CSS, and J
 
 ### Tutorial
   
-**Step 1: Installation**
+***
+> Step 1: Installation
 
 The first step is to install Git. You can install [Git-downloads](https://gitforwindows.org/](https://git-scm.com/downloads).
 You can also refer to the [Installation options](https://happygitwithr.com/install-git.html) to install Git.
   
-**Step 2: Start a repository** 
+***
+> Step 2: Start a repository
 
 After you sign in your GitHub account, you can see the “Create a new repository” button in the middle of the home page. Click it, then you can fill up your “Repository name”, description, and complete other settings.
 Although “Add a README file” is optional, we recommend you to create one that describes your project briefly to the GitHub users.
@@ -60,7 +62,8 @@ knitr::include_graphics(rep("img/prog-gh-start.png"))
 knitr::include_graphics(rep("img/prog-gh-start2.png"))
 ```
 
-**Step 3: Add new collaborators**
+***
+> Step 3: Add new collaborators
 
 After you create your repository, you can view your repository by clicking the right upper corner of the page to enter “Your repositories”, or to enter “ Your profile” and then “Repositories”. 
 
@@ -74,7 +77,8 @@ Then, you can click “Setting” to manage your repository. We recommend you to
 knitr::include_graphics(rep("img/prog-gh-add.png"))
 ```
 
-**Step 4: Create an R project**
+***
+> Step 4: Create an R project
 Then, open your RStudio. Click “File” on the left upper corner of RStudio, then “New Project”. 
 
 ```{r echo=FALSE, fig.cap="GitHub Create an R project 1"}
@@ -94,7 +98,8 @@ knitr::include_graphics(rep("img/prog-gh-R3.png"))
 Then, everything is done! Now, you can see current files in your repository on the right side of your RStudio. You can also add new files, edit current files in your repository. 
 
 
-**Step 5: Commit & Push & Pull**
+***
+> Step 5: Commit & Push & Pull
 
 After you add or edit files, you have to commit and push your changes to repository. Go to the right upper side of your RStudio and enter "Git". Then, select files and click "Commit", and you will need to select files again, input commit messages before you confirm your "Commit". 
 
