@@ -1,5 +1,12 @@
 # Tools for programming
 
+## Strengths and weaknesses
+
+| Tools | Strengths | Weaknesses |
+| :--- | :--- | :--- |
+| Github | - Easy code hosting and writing. <br> - Effective project management and team collaboration.| - Difficult to use for beginners. <br> - Merge conflicts sometimes occur. |
+| Colab | - No setup, easy to write and execute python code. <br> - Useful team collaboration and project management tool. Just like collaborating on a Google Docs document, you can co-code with multiple developers using a Google Colab notebook.| - Limited space & time with the free version. <br> - Only for Python coders. |
+
 ## Github
 
 ### Introduction
@@ -33,19 +40,11 @@ Developers can ask and answer questions, share codes using the "discussion" feat
 - Use Github Pages to build your websites
 GitHub Pages provides a static web hosting service that fetches HTML, CSS, and JavaScript files directly from repositories on GitHub, then builds and publishes the site. 
 
-### Strengths & Weaknesses
-  
-| Strengths | Weaknesses |
-| :--- | :--- |
-| Easy code hosting and writing | Difficult to use for beginners |
-| Effective project management and team collaboration | Merge conflicts sometimes occur |
-
-
 ### Tutorial
   
-- Installation
+**Step 1: Installation**
 
-- Start a repository 
+**Step 2: Start a repository** 
 
 After you sign in your GitHub account, you can see the “Create a new repository” button in the middle of the home page. Click it, then you can enter your “Repository name”, description, and other settings.
 Although “Add a README file” is optional, we recommend you to create one that describes your project briefly to the GitHub users.
@@ -58,7 +57,7 @@ knitr::include_graphics(rep("img/prog-gh-start.png"))
 knitr::include_graphics(rep("img/prog-gh-start2.png"))
 ```
 
-- Add new collaborators
+**Step 3: Add new collaborators**
 
 After you create your repository, you can view your repository by clicking the right upper corner of the page to enter “Your repositories”, or to enter “ Your profile” and then “Repositories”. 
 
@@ -72,7 +71,7 @@ Then, you can click “Setting” to manage your repository. We recommend you to
 knitr::include_graphics(rep("img/prog-gh-add.png"))
 ```
 
--Create an R project
+**Step 4: Create an R project**
 Then, open your RStudio. Click “File” on the left upper corner of RStudio, then “New Project”. 
 
 ```{r echo=FALSE, fig.cap="GitHub Create an R project 1"}
@@ -92,10 +91,35 @@ knitr::include_graphics(rep("img/prog-gh-R3.png"))
 Then, everything is done! Now, you can see current files in your repository on the right side of your RStudio. You can also add new files, edit current files in your repository. 
 
 
-- Commit & Push & Pull
+**Step 5: Commit & Push & Pull**
 
-- More resources
-For more advanced tutorials about Colab, you can refer to [GitHub Tutorials](https://docs.github.com/en)
+After you add or edit files, you have to commit and push your changes to repository. Go to the right upper side of your RStudio and enter "Git". Then, select files and click "Commit", and you will need to select files again, input commit messages before you confirm your "Commit". 
+
+  ```{r echo=FALSE, fig.cap="GitHub commit 1"}
+knitr::include_graphics(rep("img/prog-gh-commit.png"))
+```
+
+```{r echo=FALSE, fig.cap="GitHub commit 2"}
+knitr::include_graphics(rep("img/prog-gh-commit2.png"))
+```
+
+Then, click "push" on the right upper corner to push your changes to the repository. 
+  
+```{r echo=FALSE, fig.cap="GitHub push"}
+knitr::include_graphics(rep("img/prog-gh-push.png"))
+```
+
+In addition to commit and push, you also need to update changes to your local files by using "Pull". 
+  
+```{r echo=FALSE, fig.cap="GitHub pull"}
+knitr::include_graphics(rep("img/prog-gh-pull.png"))
+```
+
+
+  
+### More resources
+- For more tutorials about GIT Push and Pull, please refer to [link](https://www.datacamp.com/tutorial/git-push-pull)
+- For more advanced tutorials about Github, you can refer to [GitHub Tutorials](https://docs.github.com/en)
 
 ## Google Colab
 
@@ -145,13 +169,6 @@ You can also add a “section header cell” to make your projects easier to rea
 ```{r echo=FALSE, fig.cap="Colab Table of content"}
 knitr::include_graphics(rep("img/prog-cl-toc.png"))
 ```
-
-### Strengths & Weaknesses
-
-| Strengths | Weaknesses |
-| :--- | :--- |
-| No setup, easy to write and execute python code. | Limited space & time with the free version.|
-| Useful team collaboration and project management tool. Just like collaborating on a Google Docs document, you can co-code with multiple developers using a Google Colab notebook. | Only for Python coders. |
 
 ### More resources
 For more advanced tutorials about Colab, you can refer to [Colab Tutorials](https://colab.research.google.com/?hl=en#scrollTo=Nma_JWh-W-IF)
