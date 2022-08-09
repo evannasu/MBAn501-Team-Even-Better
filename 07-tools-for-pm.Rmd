@@ -16,12 +16,94 @@ For more detailed comparison, please refer to this [link](https://www.capterra.c
 
 ### Introduction
 
+ClickUp is a work platform for project management that can replace all productivity software in an organization across all departments with one single application for tasks, docs, chat, goals, and team management. It is developed by ClickUp, a Startup founded in 2016, located in San Diego, CA, US.
+
+Here is the official website: [https://www.clickup.com/](https://www.clickup.com/).
+
+Applications for different users:
+
+* MBAn students may find its free version useful to small team management, and can also apply agile methodologies learned in the course *MBAn501 Software Teams and Project Management* to this software.
+
+* Any individual can use its basic features to work on the right things, such as knowing the priorities, managing tasks, and recording the workflow.
+
+* Managers can use it to assign tasks, keep track of what is going on, and evaluate how employees perform.
+
+* Executive teams use it by keeping everything aligned to meet goals faster.
+
 ### Main features
+
+#### Structure
+```{r echo=FALSE, fig.cap="ClickUp Data Hierarchy"}
+knitr::include_graphics(rep("img/ClickUp_Structure.png"))
+```
+
+Everything is organized in ClickUp by this hierarchy: Workspace - Space - Folder - List - Task. Each level towards bottom gives your more flexibility. Plus, there is also an *Everything View* to get a birds-eye view of the entire Workspace and everything in it.
+
+* Workspace
+
+A workspace represents your entire company, organization, small business, and more.
+
+* Space
+
+Spaces are for high-level categorizations, such as teams and departments. For example, spaces can be named *Marketing Team*, *Software Development Team*, or a unique team name.
+
+* Folder
+
+Folders keep track of lists of tasks. They can represent projects, campaigns, or databases of work items within a team.
+
+* List
+
+Lists are designed to group together related tasks, and show statuses of different tasks in various views, such as Kanban Board, Calendar, Timeline, Mind Map, etc.
+
+Here’s an example of a product management Kanban board in ClickUp:
+```{r echo=FALSE, fig.cap="Kanban Board View Example"}
+knitr::include_graphics(rep("img/Kanban.png"))
+```
+
+* Task
+
+Tasks are the most basic and flexible units, each with its own description, assignees, comments and more. You can create relationship between tasks, and they can be easily changed through clicks and drags. There can also be sub-tasks under one task.
+
+#### Templates
+
+One amazing feature of ClickUp is that it provides hundreds of templates ready to use in design of spaces, folders, and lists. Whenever you create a new object, suggested templates will directly pop up. To browse a full set of templates divided by user levels and use cases, just click [here](https://clickup.com/templates).
+
+#### Dashboard
+
+Dashboard is a place to build all your work together in a high-level overview. It can be used to develop Sprints, show custom charts and calculations, track progress, and even embed external Apps. You can choose different widgets to visualize whatever you want to show.
+
+```{r echo=FALSE, fig.cap="Dashboard Example"}
+knitr::include_graphics(rep("img/Dashboard.png"))
+```
+
+#### ClickApps & Intergrations
+
+ClickUp develops a bunch of Apps for internal usage, such as email, docs, Giphy(for using funny gifs), Priority(for setting priority levels), Pulse(to see who's online), Sprints, etc. It also connects over 1000+ external Apps such as slack, Github, Google Drive, Dropbox, Zoom, YouTube, etc. You can view a full list [here](https://clickup.com/integrations).
+
+### Tutorial
+
+#### Getting Started
+
+From its [website](https://clickup.com/), click *Get Started* or *Sign Up* button, and enter your email in this banner:
+```{r echo=FALSE, fig.cap="Sign Up Banner"}
+knitr::include_graphics(rep("img/ClickUp_Banner.png"))
+```
+
+It would direct you into a sign-up page to set up your name and password, and then you are ready to go! Some instructions will pop up to help you create your initial workspace, just follow them by clicking each NEXT button.
+
+Once you complete, you would have a homepage like this:
+```{r echo=FALSE, fig.cap="Homepage"}
+knitr::include_graphics(rep("img/ClickUp_Homepage.png"))
+```
+
+#### Play with it！
+
+Now you're ready to explore any feature mentioned above in your workspace. Refer to this [Help Center](https://help.clickup.com/hc/en-us) for step-by-step instructions.
 
 ### More resources
 * [ClickUp University](https://university.clickup.com/)
+* [ClickUp Blog](https://clickup.com/blog/)
 
-### Tutorial
 
 ## Asana
 
