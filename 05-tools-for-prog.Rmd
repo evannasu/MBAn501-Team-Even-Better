@@ -116,7 +116,7 @@ Then, everything is done! Now, you can see current files in your repository on t
 
 After you add or edit files, you have to commit and push your changes to repository. Go to the right upper side of your RStudio and enter "Git". Then, select files and click "Commit", and you will need to select files again, input commit messages before you confirm your "Commit". 
 
-```{r echo=FALSE, fig.align="center"}
+```{r echo=FALSE, out.width="50%", fig.align="center"}
 knitr::include_graphics(rep("img/prog-gh-commit.png"))
 ```
 
@@ -168,7 +168,7 @@ All of your Google Colab notebooks are saved under your Google Drive account, ju
 You can also save it to your GitHub repository.
 Both options enable you to share your projects easily with other developers.
 
-```{r echo=FALSE, out.width="30%", fig.align="center"}
+```{r echo=FALSE, out.width="50%", fig.align="center"}
 knitr::include_graphics(rep("img/prog-cl-save.png"))
 ```
 
