@@ -15,7 +15,7 @@ GitHub is a platform for hosting, storing, and editing code. It facilitates proj
 
 Here is the official website: [https://github.com/](https://github.com/).
 
-MBAn students will use Github for team projects in <MBAn501 Team and software management> in the summer term. And students can also find many resources about programming on the platform. 
+MBAn students will use Github for team projects in *MBAn501 Team and software management* in the summer term. And students can also find many resources about programming on the platform. 
 
 ```{r echo=FALSE, out.width="50%", fig.align="center"}
 knitr::include_graphics(rep("img/prog-gh.png"))
@@ -150,7 +150,7 @@ Google Colab is a product from Google Research. It allows anybody to write and e
 
 Here is the official website: [https://colab.research.google.com/](https://colab.research.google.com/)
 
-MBAn students will use Google Colab frequently in <MBAn550 Intro To Data Programming> in the summer term, and are likely to use it in the fall term in order to work on Python projects. And we also recommend anyone who is new to Python programming to use Google Colab. 
+MBAn students will use Google Colab frequently in *MBAn550 Intro To Data Programming* in the summer term, and are likely to use it in the fall term in order to work on Python projects. And we also recommend anyone who is new to Python programming to use Google Colab. 
 
 ### Main features
 
