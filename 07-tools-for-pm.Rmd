@@ -37,7 +37,7 @@ Applications for different users:
 knitr::include_graphics(rep("img/ClickUp_Structure.png"))
 ```
 
-Everything is organized in ClickUp by this hierarchy: Workspace - Space - Folder - List - Task. Each level towards bottom gives your more flexibility. Plus, there is also an *Everything View* to get a birds-eye view of the entire Workspace and everything in it.
+Everything is organized in ClickUp by this hierarchy: **Workspace - Space - Folder - List - Task**. Each level towards bottom gives your more flexibility. Plus, there is also an **Everything** to get a birds-eye view of the entire workspace and everything in it.
 
 * Workspace
 
@@ -82,9 +82,9 @@ ClickUp develops a bunch of Apps for internal usage, such as email, docs, Giphy(
 
 ### Tutorial
 
-#### Getting Started
+#### Onboard
 
-From its [website](https://clickup.com/), click *Get Started* or *Sign Up* button, and enter your email in this banner:
+From its [website](https://clickup.com/), click **Get Started** or **Sign Up** button, and enter your email in this banner:
 ```{r echo=FALSE, fig.cap="Sign Up Banner"}
 knitr::include_graphics(rep("img/ClickUp_Banner.png"))
 ```
@@ -92,27 +92,65 @@ knitr::include_graphics(rep("img/ClickUp_Banner.png"))
 It would direct you into a sign-up page to set up your name and password, and then you are ready to go! Some instructions will pop up to help you create your initial workspace, just follow them by clicking each NEXT button.
 
 Once you complete, you would have a homepage like this:
-```{r echo=FALSE, fig.cap="Homepage"}
+```{r echo=FALSE, fig.cap="ClickUp Homepage"}
 knitr::include_graphics(rep("img/ClickUp_Homepage.png"))
 ```
 
-#### Play with it！
+In this homepage, **LineUp™️** is a place to add your most important task. For managers, it shows a prioritized order of tasks for each person. Now, you'll always know each person's main focus and priority.
+
+**Trending** shows the top tasks that you recently spent time on.
+
+**My Work** lists all the to-do, done, delegated tasks and comments for you.
+
+On the right side, a built-in **Calendar** helps you to organize your day by dragging and dropping task in time order.
+
+In the sidebar, **Notifications** page is a hub for communications, and show changes related to your assignment. You can arrange which platforms trigger notifications in the **Setting**.
+
+#### Explore and Have Fun！
 
 Now you're ready to explore any feature mentioned above in your workspace. Refer to this [Help Center](https://help.clickup.com/hc/en-us) for step-by-step instructions.
 
 ### More resources
 * [ClickUp University](https://university.clickup.com/)
 * [ClickUp Blog](https://clickup.com/blog/)
+* [ClickUp Feature Glossary](https://clickup.com/blog/the-ultimate-guide-to-clickup-terms-features/)
 
 
 ## Asana
 
 ### Introduction
 
+Asana is another work platform for project management similar to ClickUp. It also features managing projects with one tool. It is developed by Asana, founded in 2008, with a headquarter located in San Francisco, CA, US.
+
 ### Main features
+
+#### Homepage
+This is my sample homepage of in Asana:
+```{r echo=FALSE, fig.cap="Asana Homepage"}
+knitr::include_graphics(rep("img/Asana_Homepage.png"))
+```
+
+Many features are similar to ClickUp, but in different design. 
+
+Tasks are shown in **My Priorities** divided into Upcoming, Overdue, and Completed. You can view recent or favorite projects in **Project**, and frequent collaborators in **People**.
+
+Besides the default widgets, Asana also gives you freedom to customize homepage by selecting background and other widgets that you find useful.
+
+In the sidebar, **My Task** is similar to **My Work** in the homepage of ClickUp, **Inbox** is similar to **Notifications**, **Reporting** performs the same as **Dashboard**, and **Portfolios** is like **Everything**. **Goal** is a new function in Asana to see progress of your company goals and keep teams on track. Different projects also show directly on the sidebar.
+
+#### Keyboard Shortcuts
+
+One unique feature of Asana is that it provides a lists of keyboard shortcuts. You can open it by clicking **Help & getting started** in the sidebar and then **Keyboard shortcuts**. Here is a snapshot:
+```{r echo=FALSE, fig.cap="Keyboard Shortcuts"}
+knitr::include_graphics(rep("img/Asana_Keyboard.png"))
+```
+
+#### Upgrade to find more features
+Unlike ClickUp which provides most features in the free version, you may need to upgrade to **Premium** to access many features in Asana, such as Timeline, Reporting, Forms, Task dependencies, Dashboards & custom charts, Google SSO, etc. And another **Business** version to unlock Portfolios and Goals.
 
 ### More resources
 * [Asana Academy](https://academy.asana.com/)
+* [Asana Feature Guide](https://asana.com/guide)
 
 ## Jira
 

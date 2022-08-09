@@ -18,6 +18,8 @@ fig:unnamed-chunk-35
 fig:unnamed-chunk-36
 fig:unnamed-chunk-37
 fig:unnamed-chunk-38
+fig:unnamed-chunk-39
+fig:unnamed-chunk-40
 welcome
 introduction
 about-us
@@ -87,12 +89,15 @@ templates
 dashboard
 clickapps-intergrations
 tutorial-4
-getting-started
-play-with-it
+onboard
+explore-and-have-fun
 more-resources-4
 asana
 introduction-11
 main-features-10
+homepage
+keyboard-shortcuts
+upgrade-to-find-more-features
 more-resources-5
 jira
 introduction-12
