@@ -44,9 +44,12 @@ GitHub Pages provides a static web hosting service that fetches HTML, CSS, and J
   
 **Step 1: Installation**
 
+The first step is to install Git. You can install [Git-downloads](https://gitforwindows.org/](https://git-scm.com/downloads).
+You can also refer to the [Installation options](https://happygitwithr.com/install-git.html) to install Git.
+  
 **Step 2: Start a repository** 
 
-After you sign in your GitHub account, you can see the “Create a new repository” button in the middle of the home page. Click it, then you can enter your “Repository name”, description, and other settings.
+After you sign in your GitHub account, you can see the “Create a new repository” button in the middle of the home page. Click it, then you can fill up your “Repository name”, description, and complete other settings.
 Although “Add a README file” is optional, we recommend you to create one that describes your project briefly to the GitHub users.
 
 ```{r echo=FALSE, fig.cap="GitHub Start a repository 1"}
@@ -118,8 +121,8 @@ knitr::include_graphics(rep("img/prog-gh-pull.png"))
 
   
 ### More resources
-- For more tutorials about GIT Push and Pull, please refer to [link](https://www.datacamp.com/tutorial/git-push-pull)
-- For more advanced tutorials about Github, you can refer to [GitHub Tutorials](https://docs.github.com/en)
+- For more tutorials about GIT Push and Pull, please refer to [Git Guides](https://github.com/git-guides)
+- For more advanced tutorials about Github, you can refer to [GitHub Tutorials](https://docs.github.com/en), [Happy Git](https://happygitwithr.com/index.html)
 
 ## Google Colab
 
