@@ -11,6 +11,7 @@
 | When2meet | -Easy to use | -Usefulness decreases as number of participants increases<br>-Can be accessed by random people |
 
 ## Zoom
+<a id="Zoom"> </a>
 
 ### Introduction
 
@@ -42,6 +43,7 @@ Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-u
 
 
 ## GroupMe
+<a id="GroupMe"> </a>
 
 ### Introduction
 
@@ -50,6 +52,7 @@ Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-u
 ### Who tends to love it?
 
 ## Microsoft Teams
+<a id="Microsoft Teams"> </a>
 
 ### Introduction
 
@@ -58,6 +61,7 @@ Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-u
 ### Who tends to love it?
 
 ## Slack
+<a id="Slack"> </a>
 
 ### Introduction
 
@@ -66,6 +70,7 @@ Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-u
 ### Who tends to love it?
 
 ## When2Meet
+<a id="When2Meet"> </a>
 
 ### Introduction
 

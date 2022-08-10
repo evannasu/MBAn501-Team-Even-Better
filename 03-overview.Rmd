@@ -2,6 +2,13 @@
 
 ## The common form of team activity in MBAn
 
+Students from MBAn have team-based work in almost every class, so team activity is constant throughout the semester and consists of:
+
+- **Group project**: Several students work together to complete a project, which may involve writing code or working on a business report.
+- **Group discussion**: The group members discuss the group project from time to time, the content and format may vary from group to group.
+- **Group presentation**: A presentation on a group project or a specific topic. The length and format of the presentation will be based on the rubric provided by the instructor.
+- **Agile team strategies**: Create flexible strategies within the group. The team can make changes according to the situation and respond flexibly to external changes.
+- **Collaboration**: In the process of completing a group project, the team needs to collaborate effectively and use collaboration tools flexibly to improve work efficiency.
 
 
 

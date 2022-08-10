@@ -13,6 +13,7 @@
 For more detailed comparison, please refer to this [link](https://www.capterra.com/project-management-software/compare/120550-158833-19319/Asana-vs-ClickUp-vs-JIRA).
 
 ## ClickUp
+<a id="ClickUp"> </a>
 
 ### Introduction
 
@@ -117,6 +118,7 @@ Now you're ready to explore any feature mentioned above in your workspace. Refer
 
 
 ## Asana
+<a id="Asana"> </a>
 
 ### Introduction
 
@@ -152,9 +154,10 @@ Unlike ClickUp which provides most features in the free version, you may need to
 * [Asana Academy](https://academy.asana.com/)
 * [Asana Feature Guide](https://asana.com/guide)
 
-## Jira
+## Jira 
+<a id="Jira"> </a>
 
-### Introduction
+### Introduction 
 
 ### Main features
 

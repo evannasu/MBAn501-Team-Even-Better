@@ -8,7 +8,8 @@
 | Google Docs/Slides/Sheets | - Real-time collaboration<br>- Automatically save the work<br>- Always accessible<br>- Easy to share by adding email address or sending links<br>- Easy to set user permission levels to designate who can view, comment, or edit the document<br>- Unlimited revision history to see what others have changed | - Functionality limited by internet connection<br>- Lack of advanced features<br>- A loss in formatting/features when importing |
 | Dropbox | - Automatic file backup<br>- Advanced software integration<br>- Offline working capabilities<br>- Commonly used by IT geeks for sharing data<br>- Free to use with edu email address | - Lack of elite-level security<br>- Lack of advanced features<br>- Limited search function |
 
-## Google Workspace 
+## Google Workspace
+<a id="Google Workspace"> </a>
 
 ### Introduction
 
@@ -85,6 +86,7 @@ knitr::include_graphics(rep("img/forms.png"))
 * [Tutorials for Google Sheets](https://www.lovesdata.com/blog/google-sheets-tips)
 
 ## Dropbox
+<a id="Dropbox"> </a>
 
 ### Introduction
 
