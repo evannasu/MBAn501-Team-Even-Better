@@ -45,7 +45,7 @@ introduction-2
 main-features-1
 tutorial-1
 more-resources-1
-tools-for-programming
+tools-for-software-developmend
 strengths-and-weaknesses-1
 github
 introduction-3
@@ -101,4 +101,11 @@ introduction-11
 main-features-10
 more-resources-10
 summary
-parts
+epilogue-how-we-built-this-project
+group-process
+dynamics
+division-of-work
+agile-work-practices
+learning-curve
+reflection
+other
