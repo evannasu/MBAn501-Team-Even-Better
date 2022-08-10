@@ -40,19 +40,19 @@ knitr::include_graphics(rep("img/ClickUp_Structure.png"))
 
 Everything is organized in ClickUp by this hierarchy: **Workspace - Space - Folder - List - Task**. Each level towards bottom gives your more flexibility. Plus, there is also an **Everything** to get a birds-eye view of the entire workspace and everything in it.
 
-* Workspace
+* **Workspace**
 
 A workspace represents your entire company, organization, small business, and more.
 
-* Space
+* **Space**
 
 Spaces are for high-level categorizations, such as teams and departments. For example, spaces can be named *Marketing Team*, *Software Development Team*, or a unique team name.
 
-* Folder
+* **Folder**
 
 Folders keep track of lists of tasks. They can represent projects, campaigns, or databases of work items within a team.
 
-* List
+* **List**
 
 Lists are designed to group together related tasks, and show statuses of different tasks in various views, such as Kanban Board, Calendar, Timeline, Mind Map, etc.
 
@@ -61,7 +61,7 @@ Here’s an example of a product management Kanban board in ClickUp:
 knitr::include_graphics(rep("img/Kanban.png"))
 ```
 
-* Task
+* **Task**
 
 Tasks are the most basic and flexible units, each with its own description, assignees, comments and more. You can create relationship between tasks, and they can be easily changed through clicks and drags. There can also be sub-tasks under one task.
 
