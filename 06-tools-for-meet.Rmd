@@ -1,4 +1,4 @@
-# Tools for messaging and virtual meeting
+# Tools for Messaging and Virtual Meeting
 
 ## Strengths and Weaknesses
 
@@ -8,7 +8,7 @@
 | GroupMe | -Ability to access messages sent before having joined the message group<br>-Ability to message people individually or create public/private groups<br>-Can join all pages associated with your university/organization | -Inability to create sub threads<br>-Unable to connect to external platforms |
 | Microsoft Teams | -Combined messaging and virtual meeting platform<br>-Can see status/availability of teammates<br>-Can be connected to Google suite/Microsoft office |  |
 | Slack | -Ability to create and switch between workspaces<br>-Can join all sub threads in a workspace<br>-Can be connected to Google suite |  |
-| When2meet | -Easy to use | -Usefulness decreases as number of participants increases<br>-Can be accessed by random people |
+| When2meet | -Easy to use | -Usefulness decreases as number of participants increases<br>-Can be accessed by anyone with the link |
 
 ## Zoom
 <a id="Zoom"> </a>
@@ -74,6 +74,85 @@ Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-u
 
 ### Introduction
 
-### Main features
+When2Meet is a scheduling tool that helps groups find the best time to meet. Users input their availability and When2Meet returns a green/red color scale calendar showing times when people are most available/unavailable.
 
-### Who tends to love it?
+### Main Features
+- What dates might work?: Allows the planner of the event to select specific dates or days of the week for group members to enter their availability. 
+- What times might work?: Allows the planner to select the time zone and time period they would like group members to enter their availability for. 
+- Sign In: Users can enter a display name to be shown on the calendar. They may also enter a password to revise their availability as needed and the password maintains the security of their responses.
+- Calendar: Displays the group’s availability in 15 minute increments when hovered over, along with who is either available or unavailable. 
+
+### Tutorial
+
+#### Step 1: Plan a New Event {-}
+
+As the organizer of the event, navigate to the [When2Meet website](https://www.when2meet.com/). Select the “Plan a New Event” tab in the top left corner. Name your meeting/event in the “New Event Name” text box. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet1.png"))
+```
+
+#### Step 2: Select Dates {-}
+
+Click on the dropdown menu next to “Survey using:” and select either “Specific Dates” or “Days of the Week”. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet2.png"))
+```
+
+If you select “Days of the Week”, select the specific day of the week you wish group members to enter their availability for. The selected dates/days will turn green. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet3.png"))
+```
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet4.png"))
+```
+
+If you select “Specific Dates”, select all of the days you wish group members to enter their availability for. To change months, drag the column where the months are listed to the left of the calendar up or down. The selected dates/days will turn green. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet5.png"))
+```
+
+#### Step 3: Select Times {-}
+
+Select the start and end time of the period you want group members to enter their availability for using the dropdown menus next to “No earlier/later than”. You may also change the time zone. When finished, click the “Create Event” button in the bottom right corner.  
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet9.png"))
+```
+
+#### Step 4: Send the Link {-}
+
+Under the event name, you can email, Facebook message or copy the link to share the When2Meet with others. Everyone who receives the link will be prompted to enter a name and the option to enter a password. Click “Sign In” when finished. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet6.png"))
+```
+
+#### Step 5: Enter Your Availability {-}
+
+The left hand side shows your availability and the right hand side shows the group’s availability. On the left, enter your availability by clicking and dragging to toggle between green (available) and red (unavailable) in 15 minute increments. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet7.png"))
+```
+
+#### Step 6: Check Group’s Availability {-}
+
+As group members enter their availability, the group availability calendar on the left will update. Hover over different times in the calendar to see who is available. As you hover over a time increment on the right, the name of each group member who is available/unavailable will be shown on the left. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/When2Meet8.png"))
+```
+
+#### Step 7: Select a Time {-}
+
+Once all members have completed their inputs, select the best time to meet! 
+
+**Remember**, team members can sign in and change their availability at any time. Moreover, anyone with the link can enter their availability, so be careful who you send the link to and where you post it. 
+
+### More Resources
+
+To contact support, ask questions, and watch a demo video about When2Meet, click [here](https://www.when2meet.com/?About)!
