@@ -35,7 +35,7 @@
 	    <td align="center"> <a href="#Colab">link</a> </td>
 	</tr>
 	<tr>
-	    <td rowspan="5" align="center"  bgcolor=#FFFFFF>Messaging and virtual meeting</td>
+	    <td rowspan="4" align="center"  bgcolor=#FFFFFF>Messaging and virtual meeting</td>
 	    <td >Zoom</td>
 	    <td > Students, teachers, professionals, families  </td>
 	    <td >A virtual communication platform that allows people to connect with others through video or audio conferencing.</td>
