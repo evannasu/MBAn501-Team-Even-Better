@@ -170,7 +170,7 @@ All of your Google Colab notebooks are saved under your Google Drive account, ju
 You can also save it to your GitHub repository.
 Both options enable you to share your projects easily with other developers.
 
-```{r echo=FALSE, out.width="50%", fig.align="center"}
+```{r echo=FALSE, out.width="30%", fig.align="center"}
 knitr::include_graphics(rep("img/prog-cl-save.png"))
 ```
 
