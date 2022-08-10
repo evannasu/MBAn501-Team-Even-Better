@@ -133,7 +133,7 @@ knitr::include_graphics(rep("img/prog-gh-push.png"))
 
 In addition to commit and push, you also need to update changes to your local files by using "Pull". 
   
-```{r echo=FALSE, fig.align="center"}
+```{r echo=FALSE, out.width="70%",fig.align="center"}
 knitr::include_graphics(rep("img/prog-gh-pull.png"))
 ```
 
