@@ -1,4 +1,4 @@
-# Tools for documentation and file sharing
+# Tools for Documentation and File Sharing
 
 ## Strengths and Weaknesses
 

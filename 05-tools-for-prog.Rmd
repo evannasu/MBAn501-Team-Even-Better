@@ -1,4 +1,4 @@
-# Tools for programming
+# Tools for Programming
 
 ## Strengths and weaknesses
 

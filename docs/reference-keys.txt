@@ -108,3 +108,10 @@ main-features-11
 more-resources-7
 summary-tables-and-graphs-of-user-feedback-and-suggestions
 parts
+more-resources-8
+more-resources-9
+more-resources-10
+fig:unnamed-chunk-8
+fig:unnamed-chunk-9
+fig:unnamed-chunk-10
+summary

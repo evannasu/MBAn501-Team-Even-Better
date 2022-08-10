@@ -4,42 +4,82 @@
 
 | Platform | Strengths | Weaknesses |
 | :--- | :--- | :--- |
-| Zoom | -Diverse platform that is constantly being upgraded<br>-Effectively mimics face-to-face meetings | -Functionality limited by internet connection |
+| Zoom | -Diverse platform that is constantly being upgraded<br>-Effectively mimics face-to-face meetings | -Functionality limited by internet connection<br>-Zoomboming/Poor security<br>-Low quality camera |
 | GroupMe | -Ability to access messages sent before having joined the message group<br>-Ability to message people individually or create public/private groups<br>-Can join all pages associated with your university/organization | -Inability to create sub threads<br>-Unable to connect to external platforms |
-| Microsoft Teams | -Combined messaging and virtual meeting platform<br>-Can see status/availability of teammates<br>-Can be connected to Google suite/Microsoft office |  |
-| Slack | -Ability to create and switch between workspaces<br>-Can join all sub threads in a workspace<br>-Can be connected to Google suite |  |
+| Slack | -Ability to create and switch between workspaces<br>-Can join all sub threads in a workspace<br>-Can be connected to Google suite | -Can get disorganized with influx of messages<br>-App is quick to update leaving users to adjust quickly<br>-Additive with direct messages and mentioning team members |
 | When2meet | -Easy to use | -Usefulness decreases as number of participants increases<br>-Can be accessed by anyone with the link |
 
 ## Zoom
 <a id="Zoom"> </a>
 
 ### Introduction
-
 Zoom is a virtual communication platform that allows you to connect with others through video or audio conferencing. 
 
-### Main features
-
-- Chat: Allows participants to privately message one another or send a message to all participants of the meeting.
-- Participants: See all participant names, audio status, and video status. Host can turn off video and audio of the participants.
-- Share Screen: Allows people to share different screen views. Must be enabled by the host. 
-- Live Transcript: Provides auto-generated captions throughout the meeting. Must be enabled by the host. 
-- Record: The hosts of zoom meetings have the ability to enable recording of the session. The session will notify all participants that recording is on. The recording captures all screens shown throughout the meeting, audio, and live transcript. Zoom is a cloud based platform, therefore, recording can be saved to a cloud or to your computer. 
-- Breakout Rooms: The host of the meeting can divide participants into separate sessions. You can run up to 50 sessions within a single zoom meeting. Breakout rooms allow participants to work in smaller groups while allowing the host to move between rooms. 
-- Polls: Gathers the responses from meeting participants through single choice or multiple choice polling questions launched by the host. The host can download the results of the polls to use after meetings.
-
-### Who tends to love it?
-
-- Students:
-- Teachers:
-- Professionals:
-- Families: 
+### Main Features
+Chat: Allows participants to privately message one another or send a message to all participants of the meeting.
+Participants: See all participant names, audio status, and video status. Host can turn off video and audio of the participants.
+Share Screen: Allows people to share different screen views. Must be enabled by the host. 
+Live Transcript: Provides auto-generated captions throughout the meeting. Must be enabled by the host. 
+Record: The hosts of zoom meetings have the ability to enable recording of the session. The session will notify all participants that recording is on. The recording captures all screens shown throughout the meeting, audio, and live transcript. Zoom is a cloud based platform, therefore, recording can be saved to a cloud or to your computer. 
+Breakout Rooms: The host of the meeting can divide participants into separate sessions. You can run up to 50 sessions within a single zoom meeting. Breakout rooms allow participants to work in smaller groups while allowing the host to move between rooms. 
+Polls: Gathers the responses from meeting participants through single choice or multiple choice polling questions launched by the host. The host can download the results of the polls to use after meetings.
 
 ### Tutorial
 
-Follow these steps to install zoom:
+Although you can access Zoom from your browser, downloading the desktop version allows you to access a wider variety of features. 
 
+#### Step 1: Download Zoom {-}
 
-Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-us/sections/4414458840077-Advanced-In-Meeting-Settings).
+To download Zoom to your desktop, navigate to the Zoom download center [here](https://zoom.us/download)! Under “Zoom Desktop Client”, click “Download” and complete the installation process for your device.
+
+```{r echo=FALSE, out.width="50%", fig.align="center"}
+knitr::include_graphics(rep("img/Zoom1.png"))
+```
+
+- View the following Zoom support articles if you need help with installing Zoom on :
+	+ [Linux](https://support.zoom.us/hc/en-us/articles/204206269)
+	+ [macOS](https://support.zoom.us/hc/en-us/articles/203020795)
+
+#### Step 2: Sign In {-}
+
+Once installation is complete, double click on the Zoom icon to open Zoom. Click “Sign In” to sign in to your University of Michigan Zoom account.
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/Zoom2.png"))
+```
+
+Select the “SSO” option under “or sign in with”, enter your UMich email address in the format of uniqname@umich.edu, and click “Continue”. 
+
+```{r echo=FALSE, out.width="75%", fig.align="center"}
+knitr::include_graphics(rep("img/Zoom3.png"))
+```
+
+```{r echo=FALSE, out.width="75%", fig.align="center"}
+knitr::include_graphics(rep("img/Zoom4.png"))
+```
+
+You will be brought to a browser to complete duo-verification to access your UMich account. Enter your uniqname and password as you normally would. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/Zoom5.png"))
+```
+
+Once sign in has successfully been completed, you will either be automatically returned to your zoom home screen or you will proceed to a webpage where you will click “Launch Zoom”. 
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/Zoom7.png"))
+
+```
+
+```{r echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics(rep("img/Zoom6.png"))
+```
+
+### More Resources
+
+More basic Zoom information can be found on the UM ITS website [here](https://its.umich.edu/communication/videoconferencing/zoom/support)!
+
+Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-us/sections/4414458840077-Advanced-In-Meeting-Settings)!
 
 
 ## GroupMe
@@ -47,27 +87,54 @@ Advanced in-meeting settings can be found [here](https://support.zoom.us/hc/en-u
 
 ### Introduction
 
-### Main features
+GroupMe is a group messaging app that can be accessed through an app or through your browser. It was created in 2010, it is currently owned by Microsoft and it is currently free to use. 
 
-### Who tends to love it?
+### Main Features
 
-## Microsoft Teams
-<a id="Microsoft Teams"> </a>
+- Chat: Allows users to start/participate in both individual and group messaging. In the chat window, users can search messages for specific words, mute messages, hide messages, or mark messages as read. 
+- Polls: Gathers the responses from group chat members through single choice or multiple choice polling questions launched by the host. The results are made available to everyone, and individual responses can be made anonymous.
 
-### Introduction
+```{r echo=FALSE, out.width="50%", fig.align="center"}
+knitr::include_graphics(rep("img/GroupMe2.png"))
+```
 
-### Main features
+- Profile: Allows users to access a QR for their account so other users can add them as a contact. From here, users can access contacts, archives, settings, and help/feedback tabs. 
+- Discover: Allows users to find groups nearby and affiliated with their organization. The University of Michigan has over one hundred groups listed in its organization, and students are free to join any group set to public. 
 
-### Who tends to love it?
+```{r echo=FALSE, out.width="50%", fig.align="center"}
+knitr::include_graphics(rep("img/GroupMe1.png"))
+```
+
+### More Resources
+
+Visit the [GroupMe website](https://groupme.com/en-US/) to get sign-up and download the appropriate app for your device. 
 
 ## Slack
 <a id="Slack"> </a>
 
 ### Introduction
 
-### Main features
+Slack is a communication platform made to increase the efficiency and efficacy of team communication. 
 
-### Who tends to love it?
+### Main Features
+
+```{r echo=FALSE, out.width="50%", fig.align="center"}
+knitr::include_graphics(rep("img/Slack1.png"))
+```
+
+- Channels: A place where a number of people join to converse about a certain topic, which houses their conversations, files exchanged, and more. Organizations can either set channels as visible to others or by invitation only. 
+- Direct Messages: Allows users to message everyone in the slack workspace to privately message one another and essentially create a mini channel. Direct messages can do everything a channel can. 
+- Slack Connect: Allows users of one organization to connect with Slack users of another organization while maintaining the same workflow before connection. 
+- Connect to Other Apps: Slack can be connected to Google Drive, Google Calendar, Notion, Microsoft Word, and more. Slack can connect to over 2,200 apps and integrations. 
+
+
+### More Resources
+
+Follow this starting guide [here](https://its.umich.edu/communication/collaboration/slack/getting-started)!
+
+Basic Slack information can be found on the UM ITS website [here](https://its.umich.edu/communication/collaboration/slack)!
+
+More advanced Slack features can be found [here](https://slack.com/blog/productivity/slick-features-and-capabilities-you-didnt-know-about-in-slack)!
 
 ## When2Meet
 <a id="When2Meet"> </a>

@@ -1,4 +1,4 @@
-# Tools for project management
+# Tools for Project Management
 
 ## Strengths and Weaknesses
 
