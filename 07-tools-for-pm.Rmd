@@ -16,7 +16,7 @@ For more detailed comparison, please refer to this [link](https://www.capterra.c
 
 ### Introduction
 
-ClickUp is a work platform for project management that can replace all productivity software in an organization across all departments with one single application for tasks, docs, chat, goals, and team management. It is developed by ClickUp, a Startup founded in 2016, located in San Diego, CA, US.
+ClickUp is a work platform for agile project management that can replace all productivity software in an organization with one single application for tasks, docs, chat, goals, and team management. It is developed by ClickUp, a Startup founded in 2016, located in San Diego, CA, US.
 
 Here is the official website: [https://www.clickup.com/](https://www.clickup.com/).
 
@@ -120,12 +120,14 @@ Now you're ready to explore any feature mentioned above in your workspace. Refer
 
 ### Introduction
 
-Asana is another work platform for project management similar to ClickUp. It also features managing projects with one tool. It is developed by Asana, founded in 2008, with a headquarter located in San Francisco, CA, US.
+Asana is another work platform for agile project management similar to ClickUp. It also features managing projects with one tool. Its company Asana was founded in 2008, with a headquarter located in San Francisco, CA, US.
+
+Here is the official website: [https://www.asana.com/](https://www.asana.com/).
 
 ### Main features
 
 #### Homepage
-This is my sample homepage of in Asana:
+This is my homepage of in Asana:
 ```{r echo=FALSE, fig.cap="Asana Homepage"}
 knitr::include_graphics(rep("img/Asana_Homepage.png"))
 ```
@@ -155,8 +157,40 @@ Unlike ClickUp which provides most features in the free version, you may need to
 ## Jira
 
 ### Introduction
+Jira is a suite of agile work management solutions that powers collaboration across all teams from concept to customer. It is offered by Atlassian, a company founded in 2013 in Australia, its products including Jira, Confluence, Trello and Bitbucket.
+
+Here is the official website: [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira).
 
 ### Main features
 
+Jira offers several products and deployment options that are purpose-built for Software, IT, Business, Operations teams, and more. Jira Software is most suitable for software development, Jira Work Management for non-technical team projects and Jira Align for enterprise-level monitor. Here is a detailed comparison:
+
+| Jira Product | Users | Use cases | Hosting |
+| :--- | :--- | :--- | :--- |
+| Jira Software | - Software developers <br> - QA and testing <br> - Project managers | - Agile teams <br> - Project management <br> - Software development | - Cloud <br> - Data Center |
+| Jira Work Management | - Business Users <br> - Marketing <br> - Operations | - Non-technical team projects <br> - Workflow approvals <br> - Task Management | - Cloud |
+| Jira Align | - Portfolio managers <br> - Executives <br> - Transformation teams | - Enterprise agile transformation | - Cloud <br> - Dedicated Cloud |
+
+<br>
+
+This book will focus on **Jira Software**. A sample homepage is like this:
+```{r echo=FALSE, fig.cap="Jira Software Homepage"}
+knitr::include_graphics(rep("img/Jira_Homepage.png"))
+```
+<br>
+
+Unlike ClickUp and Asana, Your Work, Projects, Dashboards, People, etc. are in the headers. You can easily create a new issue by hitting the **Create** button, and this would pop up:
+```{r echo=FALSE, fig.cap="Create Issue"}
+knitr::include_graphics(rep("img/Jira_Create.png"))
+```
+
+Note that in Issue type there is another option called **Epic**, which means a big user story that needs to be broken down. This is super helpful when you need to assign tasks according to user stories. In the description part, it also supports Markdown to embed any code blocks.
+
+In the sidebar, it only provides two views of **Roadmap** (which is similar to **Timeline**) and **Board** in the default version. But the **Code** in **DEVELOPMENT** is unique in Jira Software, since it mainly targets at software development team. It is the place to create an automated DevOps workflow and minimize context switching between Jira Software and Bitbucket, GitHub, GitLab, and other source code management tools.
+
 ### More resources
-* [Atlassian University for Jira](https://university.atlassian.com/student/path/871316-learn-jira-with-atlassian-university)
+* [Jira Software Guide](https://www.atlassian.com/software/jira/guides)
+* [Atlassian's Guide to Agile Development](https://www.atlassian.com/agile)
+* [Jira Align](https://www.atlassian.com/software/jira/align)
+* [Jira Work Management](https://www.atlassian.com/software/jira/work-management)
+
