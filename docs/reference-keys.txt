@@ -20,6 +20,8 @@ fig:unnamed-chunk-37
 fig:unnamed-chunk-38
 fig:unnamed-chunk-39
 fig:unnamed-chunk-40
+fig:unnamed-chunk-41
+fig:unnamed-chunk-42
 welcome
 introduction
 about-us
@@ -100,7 +102,6 @@ keyboard-shortcuts
 upgrade-to-find-more-features
 more-resources-5
 jira
-introduction-12
 main-features-11
 more-resources-6
 summary-tables-and-graphs-of-user-feedback-and-suggestions
