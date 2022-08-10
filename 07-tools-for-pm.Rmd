@@ -157,16 +157,12 @@ Unlike ClickUp which provides most features in the free version, you may need to
 * [Asana Feature Guide](https://asana.com/guide)
 
 ## Jira 
-<a id="Jira"> </a>
 
-<<<<<<< HEAD
-### Introduction 
-=======
 ### Introduction
 Jira is a suite of agile work management solutions that powers collaboration across all teams from concept to customer. It is offered by Atlassian, a company founded in 2013 in Australia, its products including Jira, Confluence, Trello and Bitbucket.
 
 Here is the official website: [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira).
->>>>>>> e189d644fb82e1d2050df8f72bdfd474a9d3d999
+
 
 ### Main features
 

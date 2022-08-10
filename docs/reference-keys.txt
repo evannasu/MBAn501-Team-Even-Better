@@ -102,6 +102,7 @@ keyboard-shortcuts
 upgrade-to-find-more-features
 more-resources-5
 jira
+introduction-12
 main-features-11
 more-resources-6
 summary-tables-and-graphs-of-user-feedback-and-suggestions
