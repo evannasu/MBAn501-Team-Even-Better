@@ -101,11 +101,3 @@ introduction-11
 main-features-10
 more-resources-10
 summary
-epilogue-how-we-built-this-project
-group-process
-dynamics
-division-of-work
-agile-work-practices
-learning-curve
-reflection
-other
