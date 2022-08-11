@@ -90,3 +90,91 @@ With an online collaboration tool, your workplace can become more connected than
 With a virtual tool that enables better communication and sharing of knowledge, it becomes easier to inspire each other. For example, a comment on a shared document that is visible to everyone may spark an idea in somebody else.
 
 
+
+## Summary of collaboration tools
+In order to make you more familiar with collaboration tools and their usage, we have classified the tools according to their different purposes and introduced their features and usage in detail. The following table is a summary of the tools we will mention. You can click the **link** in the last column of the table to jump to a specific chapter for a more in-depth understanding.
+
+<table>
+	<tr>
+	    <th>Purpose</th>
+	    <th>Tools</th>
+	    <th>Target users</th>
+	    <th>Usage</th>  
+	    <th>Sources</th>  
+	</tr >
+	<tr >
+	    <td rowspan="2" align="center" bgcolor=#FFFFFF>Documentation and file sharing</td>
+	    <td >Google Workspace</td>
+	    <td >Anyone, especially existing Google users</td>
+	    <td >A collection of cloud computing, productivity and collaboration tools, software and products developed</td>
+	    <td align="center"> <a href="#Google Workspace">link</a> </td>
+	</tr>
+	<tr>
+	    <td >Dropbox</td>
+	    <td >Anyone, especially people who seek for security for files</td>
+	    <td >A file hosting service that offers cloud storage, file synchronization, personal cloud, and client software. </td>
+	    <td align="center"> <a href="#Dropbox">link</a> </td>
+	</tr>
+	<tr>
+	    <td rowspan="2" align="center"  bgcolor=#FFFFFF>Programming</td>
+	    <td >Github</td>
+	    <td >Students, and people who need to use git-related knowledge  </td>
+	    <td >A platform for hosting, storing, and editing code</td>
+	    <td align="center"> <a href="#Github">link</a> </td>
+	</tr>
+	<tr>
+	    <td >Colab</td>
+	    <td > Students, and people who are new to programming   </td>
+	    <td >A product of google research that allows anybody to write and execute python code through the browser, and to save notebooks on the cloud </td>
+	    <td align="center"> <a href="#Colab">link</a> </td>
+	</tr>
+	<tr>
+	    <td rowspan="4" align="center"  bgcolor=#FFFFFF>Messaging and virtual meeting</td>
+	    <td >Zoom</td>
+	    <td > Students, teachers, professionals, families  </td>
+	    <td >A virtual communication platform that allows people to connect with others through video or audio conferencing.</td>
+	    <td align="center"> <a href="#Zoom">link</a> </td>
+	</tr>
+	<tr>
+	    <td >GroupMe</td>
+	    <td > Anyone      </td>
+	    <td >  A group messaging app that can be accessed through an app or through your browser      </td>
+	    <td align="center"> <a href="#GroupMe">link</a> </td>
+  </tr>
+  <tr>
+	    <td >Slack</td>
+	    <td > Anyone，especially team members      </td>
+	    <td > A communication platform made to increase the efficiency and efficacy of team communication     </td>
+	    <td align="center"> <a href="#Slack">link</a> </td>
+  </tr>
+  <tr>
+	    <td >When2meet</td>
+	    <td > Team Members      </td>
+	    <td >  A scheduling tool that helps groups find the best time to meet     </td>
+	    <td align="center">  <a href="#When2meet">link</a> </td>
+  </tr>
+	</tr>
+	<tr>
+	    <td rowspan="3" align="center"  bgcolor=#FFFFFF>Project management</td>
+	    <td >ClickUp</td>
+	    <td > Students, managers, executive teams </td>
+	    <td >A work platform that can replace all productivity software in an organization across all departments with one single application for tasks, docs, chat, goals, and team management </td>
+	    <td align="center"> <a href="#ClickUp">link</a> </td>
+	</tr>
+	<tr>
+	    <td >Asana</td>
+	    <td > Students, managers, executive teams  </td>
+	    <td > A work platform for agile project management similar to ClickUp </td>
+	    <td align="center"> <a href="#Asana">link</a> </td>
+	</tr>
+	<tr>
+	    <td>Jira</td>
+	    <td > Students, managers, executive teams  </td>
+	    <td >  A suite of agile work management solutions that powers collaboration across all teams from concept to customer  </td>
+	    <td align="center"> <a href="#Jira">link </a></td>
+	</tr>
+
+	
+</table>
+
+

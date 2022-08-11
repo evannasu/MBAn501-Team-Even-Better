@@ -33,6 +33,7 @@ the-common-form-of-team-activity-in-mban
 the-importance-of-team-collaboration
 the-importance-of-increasing-efficiency-of-teamwork
 the-convenience-of-the-team-collaboration-tool
+summary-of-collaboration-tools
 tools-for-documentation-and-file-sharing
 strengths-and-weaknesses
 google-workspace
