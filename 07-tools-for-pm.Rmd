@@ -191,7 +191,13 @@ Unlike ClickUp and Asana, Your Work, Projects, Dashboards, People, etc. are in t
 knitr::include_graphics(rep("img/Jira_Create.png"))
 ```
 
-Note that in Issue type there is another option called **Epic**, which means a big user story that needs to be broken down. This is super helpful when you need to assign tasks according to user stories. In the description part, it also supports Markdown to embed any code blocks.
+Note that in Issue type there is another option called **Epic**, which means a large body of work that can be broken down into many smaller pieces of work – Stories. This is super helpful when you need to assign tasks according to user stories. In the description part, it also supports Markdown to embed any code blocks.
+
+Here is an example of user stories in an epic.
+
+```{r echo=FALSE, fig.cap="Jira Software Epic Example"}
+knitr::include_graphics(rep("img/Jira_Epic.png"))
+```
 
 In the sidebar, it only provides two views of **Roadmap** (which is similar to **Timeline**) and **Board** in the default version. But the **Code** in **DEVELOPMENT** is unique in Jira Software, since it mainly targets at software development team. It is the place to create an automated DevOps workflow and minimize context switching between Jira Software and Bitbucket, GitHub, GitLab, and other source code management tools.
 

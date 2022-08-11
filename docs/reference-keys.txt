@@ -22,6 +22,7 @@ fig:unnamed-chunk-63
 fig:unnamed-chunk-64
 fig:unnamed-chunk-65
 fig:unnamed-chunk-66
+fig:unnamed-chunk-67
 about-us
 tong-su
 lida-zhang
