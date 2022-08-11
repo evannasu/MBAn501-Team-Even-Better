@@ -1,5 +1,9 @@
 # Overview
 
+```{r echo=FALSE, fig.align="center", out.height="50%"}
+knitr::include_graphics(rep("img/over-logo.png"))
+```
+
 ## The common form of team activity in MBAn
 
 Students from MBAn have team-based work in almost every class, so team activity is constant throughout the semester and consists of:

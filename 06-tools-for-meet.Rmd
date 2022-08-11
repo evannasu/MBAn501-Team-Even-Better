@@ -1,5 +1,10 @@
 # Tools for Messaging and Virtual Meeting
 
+```{r echo=FALSE, fig.align="center", out.height="50%"}
+knitr::include_graphics(rep("img/meet-logo.png"))
+```
+
+
 ## Strengths and Weaknesses
 
 | Platform | Strengths | Weaknesses |

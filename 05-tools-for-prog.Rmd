@@ -1,4 +1,8 @@
-# Tools for Software Developmend
+# Tools for Software Development
+
+```{r echo=FALSE, fig.align="center"}
+knitr::include_graphics(rep("img/prog-logo.png"))
+```
 
 ## Strengths and weaknesses
 

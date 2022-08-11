@@ -1,5 +1,9 @@
 # Tools for Project Management
 
+```{r echo=FALSE, fig.align="center"}
+knitr::include_graphics(rep("img/mana-logo.png"))
+```
+
 ## Strengths and Weaknesses
 
 | Platform | ClickUp | Asana | Jira |
