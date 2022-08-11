@@ -34,21 +34,12 @@ Google Workspace is a collection of cloud computing, productivity and collaborat
 
 ### Tutorial
 
-<<<<<<< Updated upstream
 - **Google Drive: Build your drive**
-=======
-* Google Drive: Build your drive
-
-[Getting started with Google Dirve](https://youtu.be/P7555XLfHgs)
->>>>>>> Stashed changes
 
 [Getting started with Google Dirve](https://youtu.be/P7555XLfHgs)
 
-<<<<<<< Updated upstream
 - **Google Docs/Slides/Sheets: Share with others**
 
-=======
->>>>>>> Stashed changes
 [Share with others](https://youtu.be/25CtYkqamIA)
   
 - **Google Docs: Check word count**
