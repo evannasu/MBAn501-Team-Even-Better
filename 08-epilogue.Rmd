@@ -1,0 +1,29 @@
+# Epilogue: How we built this project {-}
+
+## Group process {-}
+
+how did you use the class material to make your group more effective
+
+## Dynamics {-}
+
+How did your group handle challenges and change
+
+## Division of work {-}
+
+How did you divide work, leveraged unique strengths of each individual in the team
+
+## Agile work practices {-}
+
+How did you adopt agile work practices
+
+## Learning curve {-}
+
+How did you manage the RMarkdown/Git/GitHub complexity and learning curve
+
+## Reflection {-}
+
+What more could you do to become a more effective and productive team in the time left
+
+## Other {-}
+
+Anything else you would like to provide that pertains to your group process and effectiveness

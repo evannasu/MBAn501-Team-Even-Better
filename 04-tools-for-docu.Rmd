@@ -1,5 +1,9 @@
 # Tools for Documentation and File Sharing
 
+```{r echo=FALSE, fig.align="center", out.height="50%"}
+knitr::include_graphics(rep("img/doc-logo.png"))
+```
+
 ## Strengths and Weaknesses
 
 | Platform | Strengths | Weaknesses |
@@ -13,7 +17,7 @@
 
 ### Introduction
 
-```{r echo=FALSE, fig.cap="Google Workspace", out.height="70%", out.width="50%"}
+```{r echo=FALSE, fig.cap="Google Workspace", out.height="70%", out.width="50%", fig.align = "center"}
 knitr::include_graphics(rep("img/Google Workspace.png"))
 ```
 
@@ -30,48 +34,51 @@ Google Workspace is a collection of cloud computing, productivity and collaborat
 
 ### Tutorial
 
-* Google Drive: Build your drive 
-  + [Getting started with Google Dirve](https://youtu.be/P7555XLfHgs)
+- **Google Drive: Build your drive**
 
-* Google Docs/Slides/Sheets: Share with others
+[Getting started with Google Dirve](https://youtu.be/P7555XLfHgs)
 
-  + [Share with others](https://youtu.be/25CtYkqamIA)
+- **Google Docs/Slides/Sheets: Share with others**
+
+[Share with others](https://youtu.be/25CtYkqamIA)
   
-* Google Docs: Check word count
+- **Google Docs: Check word count**
   
-```{r echo=FALSE, fig.cap="check word count", out.height="70%", out.width="50%", fig.align = "center"}
+```{r echo=FALSE, fig.cap="check word count", fig.align = "center"}
 knitr::include_graphics(rep("img/wordcount1.png"))
 ```
 
-* Google Docs: Insert equation
+- **Google Docs: Insert equation**
   
-```{r echo=FALSE, fig.cap="find the equation tab", out.height="70%", out.width="50%", fig.align = "center"}
+```{r echo=FALSE, fig.cap="find the equation tab", fig.align = "center"}
 knitr::include_graphics(rep("img/equation1.png"))
 ```
 
-```{r echo=FALSE, fig.cap="insert your equation", out.height="70%", out.width="50%", fig.align = "center"}
+```{r echo=FALSE, fig.cap="insert your equation", fig.align = "center"}
 knitr::include_graphics(rep("img/equation2.png"))
 ```
 
-* Google Slides: [Find and import templates from slidesgo](https://slidesgo.com)
+- **Google Slides:**
+
+[Find and import templates from slidesgo](https://slidesgo.com)
   
- ```{r echo=FALSE, fig.cap="Download the template", out.height="70%", out.width="50%", fig.align = "center"}
+ ```{r echo=FALSE, fig.cap="Download the template", fig.align = "center"}
 knitr::include_graphics(rep("img/slidesgo.png"))
 ```
-* Google Slides: Import slides 
+- **Google Slides: Import slides **
   
- ```{r echo=FALSE, fig.cap="import slides from other files", out.height="70%", out.width="50%", fig.align = "center"}
+ ```{r echo=FALSE, fig.cap="import slides from other files", fig.align = "center"}
 knitr::include_graphics(rep("img/importslides.png"))
 ```  
-* Google Sheets: Freeze rows and columns
+- **Google Sheets: Freeze rows and columns**
 
- ```{r echo=FALSE, fig.cap="freeze rows and columns", out.height="70%", out.width="50%", fig.align = "center"}
+ ```{r echo=FALSE, fig.cap="freeze rows and columns", fig.align = "center"}
 knitr::include_graphics(rep("img/freeze.png"))
 ```
 
-* Google Sheets: Link to a Google Form
+- **Google Sheets: Link to a Google Form**
 
- ```{r echo=FALSE, fig.cap="link to a Google Form", out.height="70%", out.width="50%", fig.align = "center"}
+ ```{r echo=FALSE, fig.cap="link to a Google Form", fig.align = "center"}
 knitr::include_graphics(rep("img/forms.png"))
 ```  
 
@@ -90,7 +97,7 @@ knitr::include_graphics(rep("img/forms.png"))
 
 ### Introduction
 
-```{r echo=FALSE, fig.cap="Dropbox", out.height="70%", out.width="50%"}
+```{r echo=FALSE, fig.cap="Dropbox", out.height="70%", out.width="50%", fig.align = "center"}
 knitr::include_graphics(rep("img/dropbox.jpg"))
 ```
 
