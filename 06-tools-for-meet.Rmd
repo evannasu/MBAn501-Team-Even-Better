@@ -16,23 +16,25 @@
 Zoom is a virtual communication platform that allows you to connect with others through video or audio conferencing. 
 
 ### Main Features
-Chat: Allows participants to privately message one another or send a message to all participants of the meeting.
-Participants: See all participant names, audio status, and video status. Host can turn off video and audio of the participants.
-Share Screen: Allows people to share different screen views. Must be enabled by the host. 
-Live Transcript: Provides auto-generated captions throughout the meeting. Must be enabled by the host. 
-Record: The hosts of zoom meetings have the ability to enable recording of the session. The session will notify all participants that recording is on. The recording captures all screens shown throughout the meeting, audio, and live transcript. Zoom is a cloud based platform, therefore, recording can be saved to a cloud or to your computer. 
-Breakout Rooms: The host of the meeting can divide participants into separate sessions. You can run up to 50 sessions within a single zoom meeting. Breakout rooms allow participants to work in smaller groups while allowing the host to move between rooms. 
-Polls: Gathers the responses from meeting participants through single choice or multiple choice polling questions launched by the host. The host can download the results of the polls to use after meetings.
+| Feature | Details |
+| :--- | :--- |
+| Chat | Allows participants to privately message one another or send a message to all participants of the meeting. |
+| Participants | See all participant names, audio status, and video status. Host can turn off video and audio of the participants. |
+| Share Screen | Allows people to share different screen views. Must be enabled by the host. | 
+| Live Transcript | Provides auto-generated captions throughout the meeting. Must be enabled by the host. |
+ | Record | The hosts of zoom meetings have the ability to enable recording of the session. The session will notify all participants that recording is on. The recording captures all screens shown throughout the meeting, audio, and live transcript. Zoom is a cloud based platform, therefore, recording can be saved to a cloud or to your computer. |
+| Breakout Rooms | The host of the meeting can divide participants into separate sessions. You can run up to 50 sessions within a single zoom meeting. Breakout rooms allow participants to work in smaller groups while allowing the host to move between rooms. |
+ | Polls | Gathers the responses from meeting participants through single choice or multiple choice polling questions launched by the host. The host can download the results of the polls to use after meetings. |
 
-### Tutorial
+## Tutorial {.tabset}
 
 Although you can access Zoom from your browser, downloading the desktop version allows you to access a wider variety of features. 
 
-#### Step 1: Download Zoom {-}
+### Step 1: Download Zoom {-}
 
 To download Zoom to your desktop, navigate to the Zoom download center [here](https://zoom.us/download)! Under “Zoom Desktop Client”, click “Download” and complete the installation process for your device.
 
-```{r echo=FALSE, out.width="50%", fig.align="center"}
+```{r echo=FALSE, out.width="35%", fig.align="center"}
 knitr::include_graphics(rep("img/Zoom1.png"))
 ```
 
@@ -40,7 +42,7 @@ knitr::include_graphics(rep("img/Zoom1.png"))
 	+ [Linux](https://support.zoom.us/hc/en-us/articles/204206269)
 	+ [macOS](https://support.zoom.us/hc/en-us/articles/203020795)
 
-#### Step 2: Sign In {-}
+### Step 2: Sign In {-}
 
 Once installation is complete, double click on the Zoom icon to open Zoom. Click “Sign In” to sign in to your University of Michigan Zoom account.
 
@@ -91,16 +93,16 @@ GroupMe is a group messaging app that can be accessed through an app or through 
 
 ### Main Features
 
-- Chat: Allows users to start/participate in both individual and group messaging. In the chat window, users can search messages for specific words, mute messages, hide messages, or mark messages as read. 
-- Polls: Gathers the responses from group chat members through single choice or multiple choice polling questions launched by the host. The results are made available to everyone, and individual responses can be made anonymous.
+| Feature | Details |
+| :--- | :--- |
+| Chat | Allows users to start/participate in both individual and group messaging. In the chat window, users can search messages for specific words, mute messages, hide messages, or mark messages as read. |
+| Polls | Gathers the responses from group chat members through single choice or multiple choice polling questions launched by the host. The results are made available to everyone, and individual responses can be made anonymous.|
+| Profile | Allows users to access a QR for their account so other users can add them as a contact. From here, users can access contacts, archives, settings, and help/feedback tabs. |
+| Discover | Allows users to find groups nearby and affiliated with their organization. The University of Michigan has over one hundred groups listed in its organization, and students are free to join any group set to public. 
 
 ```{r echo=FALSE, out.width="50%", fig.align="center"}
 knitr::include_graphics(rep("img/GroupMe2.png"))
 ```
-
-- Profile: Allows users to access a QR for their account so other users can add them as a contact. From here, users can access contacts, archives, settings, and help/feedback tabs. 
-- Discover: Allows users to find groups nearby and affiliated with their organization. The University of Michigan has over one hundred groups listed in its organization, and students are free to join any group set to public. 
-
 ```{r echo=FALSE, out.width="50%", fig.align="center"}
 knitr::include_graphics(rep("img/GroupMe1.png"))
 ```
@@ -118,14 +120,16 @@ Slack is a communication platform made to increase the efficiency and efficacy o
 
 ### Main Features
 
-```{r echo=FALSE, out.width="50%", fig.align="center"}
+```{r echo=FALSE, out.width="25%", fig.align="center"}
 knitr::include_graphics(rep("img/Slack1.png"))
 ```
 
-- Channels: A place where a number of people join to converse about a certain topic, which houses their conversations, files exchanged, and more. Organizations can either set channels as visible to others or by invitation only. 
-- Direct Messages: Allows users to message everyone in the slack workspace to privately message one another and essentially create a mini channel. Direct messages can do everything a channel can. 
-- Slack Connect: Allows users of one organization to connect with Slack users of another organization while maintaining the same workflow before connection. 
-- Connect to Other Apps: Slack can be connected to Google Drive, Google Calendar, Notion, Microsoft Word, and more. Slack can connect to over 2,200 apps and integrations. 
+| Feature | Details |
+| :--- | :--- |
+| Channels | A place where a number of people join to converse about a certain topic, which houses their conversations, files exchanged, and more. Organizations can either set channels as visible to others or by invitation only. |
+| Direct Messages | Allows users to message everyone in the slack workspace to privately message one another and essentially create a mini channel. Direct messages can do everything a channel can. |
+| Slack Connect | Allows users of one organization to connect with Slack users of another organization while maintaining the same workflow before connection. |
+| Connect to Other Apps | Slack can be connected to Google Drive, Google Calendar, Notion, Microsoft Word, and more. Slack can connect to over 2,200 apps and integrations. |
 
 
 ### More Resources
@@ -144,10 +148,13 @@ More advanced Slack features can be found [here](https://slack.com/blog/producti
 When2Meet is a scheduling tool that helps groups find the best time to meet. Users input their availability and When2Meet returns a green/red color scale calendar showing times when people are most available/unavailable.
 
 ### Main Features
-- What dates might work?: Allows the planner of the event to select specific dates or days of the week for group members to enter their availability. 
-- What times might work?: Allows the planner to select the time zone and time period they would like group members to enter their availability for. 
-- Sign In: Users can enter a display name to be shown on the calendar. They may also enter a password to revise their availability as needed and the password maintains the security of their responses.
-- Calendar: Displays the group’s availability in 15 minute increments when hovered over, along with who is either available or unavailable. 
+
+| Feature | Details |
+| :--- | :--- |
+| What dates might work? | Allows the planner of the event to select specific dates or days of the week for group members to enter their availability. |
+| What times might work? | Allows the planner to select the time zone and time period they would like group members to enter their availability for. |
+| Sign In | Users can enter a display name to be shown on the calendar. They may also enter a password to revise their availability as needed and the password maintains the security of their responses. |
+| Calendar | Displays the group’s availability in 15 minute increments when hovered over, along with who is either available or unavailable. |
 
 ### Tutorial
 
@@ -155,7 +162,7 @@ When2Meet is a scheduling tool that helps groups find the best time to meet. Use
 
 As the organizer of the event, navigate to the [When2Meet website](https://www.when2meet.com/). Select the “Plan a New Event” tab in the top left corner. Name your meeting/event in the “New Event Name” text box. 
 
-```{r echo=FALSE, out.width="100%", fig.align="center"}
+```{r echo=FALSE, out.width="75%", fig.align="center"}
 knitr::include_graphics(rep("img/When2Meet1.png"))
 ```
 
