@@ -23,7 +23,7 @@ Breaking this sentence down, our team identified our users as MBAn students, UM 
 From these user stories, we got valuable feedbacks from our users. For example, we were informed that our user wanted to know the strengths and weaknesses of each tool, so she could compare different tools. And she also wanted advanced guides and tutorials of tools we introduced. Understanding her needs, we adjusted our Table of Content by adding sections of "Strengths and weaknesses" and "More resources". In addition, we made our tutorials easier to understand by adding pictures and tables so that our user could use this book as a teaching material.
 
 - **Project scope changes**
-- 
+
 In an agile project, changes are expected and accepted. It's important for our group to manage changes in our project. Whenever the project changed, our group held a meeting to address the changes effectively according to our team charter. First, we clarified what the change was, and then we listed the things to do and divided the tasks. Finally, we also set a deadline and expected deliveries by the deadline. 
 
 ## Learning curve {-}
