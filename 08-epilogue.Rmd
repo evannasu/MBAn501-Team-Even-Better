@@ -4,6 +4,10 @@
 
 how did you use the class material to make your group more effective
 
+- **Team Charter**
+
+Team charter serves as a source for the team members to illustrate the focus and direction of the team. We use our team charter to set up individual and team learning goals, clarify roles and responsibilities, and agree on norms and decision-making process. We referred to our charter frequently during the group process.
+
 ## Dynamics {-}
 
 How did your group handle challenges and change
@@ -28,7 +32,19 @@ In an agile project, changes are expected and accepted. It's important for our g
 
 ## Learning curve {-}
 
-How did you manage the RMarkdown/Git/GitHub complexity and learning curve
+```{r echo=FALSE, fig.cap="Our Learning Curve", fig.align = "center"}
+knitr::include_graphics(rep("img/LearningCurve.jpg"))
+```
+
+- **Starting point: know each other**
+
+We started from knowing each others' strengths by listing our experience with R and taking a role in the team charter. All of us at least took up one course related to R, so in the first few weeks we didn't have much trouble with RMarkdown.
+
+- **Learn together and learn from each other**
+
+In the 4th week, we began to use version control in R. Since no one in our team is familiar with Git and Github, we decided to learn together and help each other. We first set up our project repository together in a group meeting, and ensured everyone could pull & push smoothly. Then, two members fixed the bookdown issues and taught the rest members how to use it. Anyone who needed help can reach out to the experienced members, and figure it out together.
+
+When building the book, we share good practices with each other, such as resizing pictures, organizing the repo structure, making a table to be more concise, and adding links with descriptions. In this way, each of us became a better self, which is our team vision.
 
 ## Reflection {-}
 
