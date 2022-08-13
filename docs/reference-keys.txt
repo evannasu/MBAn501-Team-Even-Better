@@ -25,15 +25,12 @@ fig:unnamed-chunk-58
 fig:unnamed-chunk-59
 fig:unnamed-chunk-60
 fig:unnamed-chunk-61
-<<<<<<< HEAD
-=======
 fig:unnamed-chunk-62
 fig:unnamed-chunk-63
 fig:unnamed-chunk-64
 fig:unnamed-chunk-65
 fig:unnamed-chunk-66
 fig:unnamed-chunk-67
->>>>>>> c1dd5aebe4307d739f74de93449542237a79d837
 about-us
 tong-su
 lida-zhang
@@ -113,8 +110,5 @@ jira
 introduction-11
 main-features-10
 more-resources-10
-<<<<<<< HEAD
 summary
 parts
-=======
->>>>>>> c1dd5aebe4307d739f74de93449542237a79d837
