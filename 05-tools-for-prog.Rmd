@@ -140,7 +140,10 @@ knitr::include_graphics(rep("img/prog-gh-pull.png"))
   
 ### More resources
 - For more tutorials about GIT Push and Pull, please refer to [Git Guides](https://github.com/git-guides)
+
 - For more advanced tutorials about Github, you can refer to [GitHub Tutorials](https://docs.github.com/en), [Happy Git](https://happygitwithr.com/index.html)
+
+- If you want to build your own book using GitHub, here is a useful tutorials for you. [Bookdown Tutorials](https://bookdown.org/yihui/bookdown/)
 
 ## Google Colab
 <a id="Google Colab"> </a>
