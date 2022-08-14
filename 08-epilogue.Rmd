@@ -2,11 +2,15 @@
 
 ## Group process {-}
 
-how did you use the class material to make your group more effective
+How did you use the class material to make your group more effective?
 
 - **Team Charter**
 
 Team charter serves as a source for the team members to illustrate the focus and direction of the team. We use our team charter to set up individual and team learning goals, clarify roles and responsibilities, and agree on norms and decision-making process. We referred to our charter frequently during the group process.
+
+- **Putting Agile to Practice**
+
+We deepens our understanding of agile project management through agile practice during sessions, thereby improving the efficiency of our projects. For example, we applied the Agile Rapid Prototyping method to quickly form our product prototype, and built user stories to understand user needs and improve product designs.
 
 ## Dynamics {-}
 
@@ -21,7 +25,7 @@ How did you divide work, leveraged unique strengths of each individual in the te
 - **User stories**
 
 A user story is the smallest unit of work in an agile project. It helps us understand our users' needs. 
-We can outline a user story using a simple sentence: *"As a ___, I want ___ so that ___."* 
+We can outline a user story using a simple sentence: *"As a ……, I want …… so that ……."* 
 
 Breaking this sentence down, our team identified our users as MBAn students, UM students, UM faculty and incoming employees involved in team collaboration work. Then, we interviewed two users to understand their intent and purpose of using this product. And we created a list of user stories that represented their needs. 
 From these user stories, we got valuable feedbacks from our users. For example, we were informed that our user wanted to know the strengths and weaknesses of each tool, so she could compare different tools. And she also wanted advanced guides and tutorials of tools we introduced. Understanding her needs, we adjusted our Table of Content by adding sections of "Strengths and weaknesses" and "More resources". In addition, we made our tutorials easier to understand by adding pictures and tables so that our user could use this book as a teaching material.
