@@ -120,7 +120,7 @@ In order to make you more familiar with collaboration tools and their usage, we 
 	    <td align="center"> <a href="#Dropbox">link</a> </td>
 	</tr>
 	<tr>
-	    <td rowspan="2" align="center"  bgcolor=#FFFFFF>Programming</td>
+	    <td rowspan="2" align="center"  bgcolor=#FFFFFF>Project development</td>
 	    <td >Github</td>
 	    <td >Students, and people who need to use git-related knowledge  </td>
 	    <td >A platform for hosting, storing, and editing code</td>

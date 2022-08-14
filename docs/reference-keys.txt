@@ -48,7 +48,7 @@ introduction-2
 main-features-1
 tutorial-1
 more-resources-1
-tools-for-software-development
+tools-for-project-development
 strengths-and-weaknesses-1
 github
 introduction-3
