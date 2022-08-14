@@ -69,7 +69,7 @@ After you sign in your GitHub account, you can see the “Create a new repositor
 Although “Add a README file” is optional, we recommend you to create one that describes your project briefly to the GitHub users.
 
 
-```{r echo=FALSE, out.width="50%", fig.align="center"}
+```{r echo=FALSE, out.width="60%", fig.align="center"}
 knitr::include_graphics(rep("img/prog-gh-start.png"))
 ```
 
@@ -79,7 +79,7 @@ knitr::include_graphics(rep("img/prog-gh-start.png"))
 After you create your repository, you can view your repository by clicking the right upper corner of the page to enter “Your repositories”, or to enter “ Your profile” and then “Repositories”. 
 
 
-```{r echo=FALSE, out.width="70%", fig.align="center"}
+```{r echo=FALSE, out.width="80%", fig.align="center"}
 knitr::include_graphics(rep("img/prog-gh-start3.png"))
 ```
 
@@ -87,7 +87,7 @@ knitr::include_graphics(rep("img/prog-gh-start3.png"))
 Then, you can click “Setting” to manage your repository. We recommend you to add all your team members by going to “Collaborators”. 
 
 
-```{r echo=FALSE, out.width="70%", fig.align="center"}
+```{r echo=FALSE, out.width="80%", fig.align="center"}
 knitr::include_graphics(rep("img/prog-gh-add.png"))
 ```
 
