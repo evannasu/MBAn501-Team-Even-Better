@@ -89,14 +89,10 @@ templates
 dashboard
 clickapps-intergrations
 tutorial-5
-onboard
-explore-and-have-fun
 more-resources-8
 asana
 introduction-10
 main-features-9
-homepage
-keyboard-shortcuts
 upgrade-to-find-more-features
 more-resources-9
 jira
