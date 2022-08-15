@@ -31,10 +31,10 @@ lilia-bei
 yining-zheng
 nilsa-ileana-pedanou
 overview
-the-common-form-of-team-activity-in-mban
-the-importance-of-team-collaboration
-the-importance-of-increasing-efficiency-of-teamwork
-the-convenience-of-the-team-collaboration-tool
+common-forms-of-team-activity-in-mban
+importance-of-team-collaboration
+importance-of-increasing-efficiency-of-teamwork
+convenience-of-team-collaboration-tools
 summary-of-collaboration-tools
 tools-for-documentation-and-file-sharing
 strengths-and-weaknesses

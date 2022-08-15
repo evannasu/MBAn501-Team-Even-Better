@@ -1,7 +1,7 @@
 --- 
 title: "Team Collaboration and Management Software"
 author: |
-  ![](img/EvenBetter_logo.png){width=1in}  
+  ![](img/EvenBetter_logo.png){width=2in}  
   Team Even Better
 date: "2022-08-15"
 site: bookdown::bookdown_site

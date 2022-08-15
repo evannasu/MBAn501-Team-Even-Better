@@ -1,6 +1,6 @@
 # About Us
 
-```{r echo=FALSE, out.height="20%", out.width="20%", fig.cap="This is our logo!"}
+```{r echo=FALSE, out.height="40%", out.width="40%", fig.cap="This is our logo!"}
 knitr::include_graphics(rep("img/EvenBetter_logo.png"))
 ```
 
