@@ -6,31 +6,25 @@ knitr::include_graphics(rep("img/teamworkteamw.jpg"))
 
 ## Group process {-}
 
-How did you use the class material to make your group more effective?
-
-- **Team Charter**
+**Team Charter**
 
 Team charter serves as a source for the team members to illustrate the focus and direction of the team. We use our team charter to set up individual and team learning goals, clarify roles and responsibilities, and agree on norms and decision-making process. We referred to our charter frequently during the group process.
 
-- **Putting Agile to Practice**
+**Putting Agile to Practice**
 
 We deepens our understanding of agile project management through agile practice during sessions, thereby improving the efficiency of our projects. For example, we applied the Agile Rapid Prototyping method to quickly form our product prototype, and built user stories to understand user needs and improve product designs.
 
-- **Collaboration with Purpose**
+**Collaboration with Purpose**
 
 Every time before meeting, we would set a specific goal for the meeting. It ensures that everyone has a shared understanding of why they are at the gathering, and it clearly defines how everyone can know when the session is finished.
 
 ## Dynamics {-}
 
-How did your group handle challenges and change? 
-
-- **Positive Group Dynamics**
+**Positive Group Dynamics**
 
 Our group has a positive dynamic in that every team member trusts each other. Especially when we face challenges, every team member is willing to help each other. For instance, when we first got in touch with GitHub and r markdown, our team members were always there to help each other figure out various technical issues. Also, whenever any of us found helpful resources, we would share the resources with the group. For any change to occur, our group always chose to meet first to discuss our further steps. Then we would divide the work equally, ensuring the changes may not increase too much workload on a single person.
 
 ## Division of work {-}
-
-How did you divide work, leveraged unique strengths of each individual in the team?
 
 At our first meeting to draft our team charter, we each chose roles to focus on for the duration of the project. We wanted to leverage the strengths of each teammate and our preferences as well. The general roles were as follows:
 
@@ -46,15 +40,16 @@ Our team dynamics allowed us to naturally leverage the unique strengths of each 
 
 ## Agile work practices {-}
 
-- **User stories**
+**User stories**
 
 A user story is the smallest unit of work in an agile project. It helps us understand our users' needs. 
 We can outline a user story using a simple sentence: *"As a ……, I want …… so that ……."* 
 
-Breaking this sentence down, our team identified our users as MBAn students, UM students, UM faculty and incoming employees involved in team collaboration work. Then, we interviewed two users to understand their intent and purpose of using this product. And we created a list of user stories that represented their needs. 
+Breaking this sentence down, our team identified our users as MBAn students, UM students, UM faculty and incoming employees involved in team collaboration work. Then, we interviewed two users to understand their intent and purpose of using this product. And we created a list of user stories that represented their needs.
+
 From these user stories, we got valuable feedbacks from our users. For example, we were informed that our user wanted to know the strengths and weaknesses of each tool, so she could compare different tools. And she also wanted advanced guides and tutorials of tools we introduced. Understanding her needs, we adjusted our Table of Content by adding sections of "Strengths and weaknesses" and "More resources". In addition, we made our tutorials easier to understand by adding pictures and tables so that our user could use this book as a teaching material.
 
-- **Project scope changes**
+**Project scope changes**
 
 In an agile project, changes are expected and accepted. It's important for our group to manage changes in our project. Whenever the project changed, our group held a meeting to address the changes effectively according to our team charter. First, we clarified what the change was, and then we listed the things to do and divided the tasks. Finally, we also set a deadline and expected deliveries by the deadline. 
 
@@ -64,11 +59,11 @@ In an agile project, changes are expected and accepted. It's important for our g
 knitr::include_graphics(rep("img/LearningCurve.jpg"))
 ```
 
-- **Starting point: know each other**
+**Starting point: know each other**
 
 We started from knowing each others' strengths by listing our experience with R and taking a role in the team charter. All of us at least took up one course related to R, so in the first few weeks we didn't have much trouble with RMarkdown.
 
-- **Learn together and learn from each other**
+**Learn together and learn from each other**
 
 In the 4th week, we began to use version control in R. Since no one in our team is familiar with Git and Github, we decided to learn together and help each other. We first set up our project repository together in a group meeting, and ensured everyone could pull & push smoothly. Then, two members fixed the bookdown issues and taught the rest members how to use it. Anyone who needed help can reach out to the experienced members, and figure it out together.
 
@@ -76,16 +71,11 @@ When building the book, we share good practices with each other, such as resizin
 
 ## Reflection {-}
 
-What more could you do to become a more effective and productive team in the time left
-
-- **Rearrange timetable**
+**Rearrange timetable**
 
 In the remaining period, we will rearrange a comprehensive strategy and timetable in accordance with the tasks and associated due dates. This will not only enable us to plan our time more effectively, but it will also increase our sense of urgency, inspire us to do our assigned duties, and increase productivity during the meeting.
 
-- **Actively engage in online discussions**
+**Actively engage in online discussions**
 
 Due to time as well as location constraints, some tasks as well as simple discussions are done online. We need to improve the efficiency of replying to online messages and the level of participation, which not only allows effective communication, but also is a sign of active engagement and gain psychological safety to each other.
 
-## Other {-}
-
-Anything else you would like to provide that pertains to your group process and effectiveness

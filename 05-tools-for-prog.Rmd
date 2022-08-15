@@ -52,7 +52,7 @@ Developers can ask and answer questions, share codes using the "discussion" feat
 
 - **Use Github Pages to build your websites**
 
-GitHub Pages provides a static web hosting service that fetches HTML, CSS, and JavaScript files directly from repositories on GitHub, then builds and publishes the site. 
+GitHub Pages provides a static web hosting service that fetches HTML, CSS, and JavaScript files directly from repositories on GitHub, then builds and publishes the site [@GitHub][@GitHub2]
 
 ### Tutorial
   
@@ -192,7 +192,7 @@ knitr::include_graphics(rep("img/prog-cl-tab.png"))
 
 - **More options for your project management**
 
-You can also add a “section header cell” to make your projects easier to read. You can use a “Table of contents” to make your projects more contextualized. Furthermore, you can comment on your code by selecting a cell and clicking the comment button in the toolbar above the top-right corner of the cell. 
+You can also add a “section header cell” to make your projects easier to read. You can use a “Table of contents” to make your projects more contextualized. Furthermore, you can comment on your code by selecting a cell and clicking the comment button in the toolbar above the top-right corner of the cell. [@Colab]
 
 ### More resources
 For more advanced tutorials about Colab, you can refer to [Colab Tutorials](https://colab.research.google.com/?hl=en#scrollTo=Nma_JWh-W-IF)
