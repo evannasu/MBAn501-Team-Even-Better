@@ -136,6 +136,7 @@ In addition to commit and push, you also need to update changes to your local fi
 knitr::include_graphics(rep("img/prog-gh-pull.png"))
 ```
 
+A kind reminder: you may need to wait for several minutes between pushing and pulling for the first time.
 
   
 ### More resources
