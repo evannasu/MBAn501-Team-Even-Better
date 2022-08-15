@@ -41,7 +41,7 @@ Although you can access Zoom from your browser, downloading the desktop version 
 
 To download Zoom to your desktop, navigate to the Zoom download center [here](https://zoom.us/download)! Under “Zoom Desktop Client”, click “Download” and complete the installation process for your device.
 
-```{r echo=FALSE, out.width="50%", fig.align="center"}
+```{r echo=FALSE, out.width="100%", fig.align="center"}
 knitr::include_graphics(rep("img/Zoom1.png"))
 ```
 
