@@ -8,10 +8,10 @@ knitr::include_graphics(rep("img/over-logo.png"))
 
 Students from MBAn have team-based work in almost every class, so team activity is constant throughout the semester and consists of:
 
-- **Group projects**: Several students work together to complete a project, which may involve writing code or working on a business report.
-- **Group discussions**: The group members discuss the group project from time to time, the content and format may vary from group to group.
-- **Group presentations**: A presentation on a group project or a specific topic. The length and format of the presentation will be based on the rubric provided by the instructor.
-- **Agile team strategies**: Create flexible strategies within the group. The team can make changes according to the situation and respond flexibly to external changes.
+- **Group Projects**: Several students work together to complete a project, which may involve writing code or working on a business report.
+- **Group Discussions**: The group members discuss the group project from time to time, the content and format may vary from group to group.
+- **Group Presentations**: A presentation on a group project or a specific topic. The length and format of the presentation will be based on the rubric provided by the instructor.
+- **Agile Team Strategies**: Create flexible strategies within the group. The team can make changes according to the situation and respond flexibly to external changes.
 - **Collaboration**: In the process of completing a group project, the team needs to collaborate effectively and use collaboration tools flexibly to improve work efficiency.
 
 
@@ -77,19 +77,19 @@ knitr::include_graphics(rep("img/overview_tool.jpg"))
 
 <font size=5> The Advantages of Collaboration Tools </font> 
 
-**Save time and resources**
+**Save Time and Resources**
 
 Emails probably take up more time in your work life than you think. An online collaboration tool could speed things up. That was the case for Google Drive. By adopting document collaboration software, colleagues were able to work on a single document in real-time. Members were relieved of the tedious, manual process of collating feedback and comments from emails. And they saved hundreds of hours. 
 
-**Increase productivity**
+**Increase Productivity**
 
 By automating certain tasks and making work processes more straight forward, your time is freed up to spend on more important activities. So, you can get more done in your day. It also means that you can focus on the tasks that digital tools can’t yet do. Rather than collating feedback from colleagues about, for example, a proposal you’re working on as team, you can concentrate on perfecting your contributions and brainstorming the next great idea. 
 
-**Improve communication**
+**Improve Communication**
 
 With an online collaboration tool, your workplace can become more connected than ever. Even when not working in disparate locations, online collaboration tools can help improve your team's communication skills. A good online collaboration tool minimizes the chance of colleagues missing important emails or updates, and ensures that everyone working together on a project is on the same page.
 
-**Boost team morale**
+**Boost Team Morale**
 
 With a virtual tool that enables better communication and sharing of knowledge, it becomes easier to inspire each other. For example, a comment on a shared document that is visible to everyone may spark an idea in somebody else[@collaboration].
 

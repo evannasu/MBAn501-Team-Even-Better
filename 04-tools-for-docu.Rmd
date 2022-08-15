@@ -23,7 +23,7 @@ knitr::include_graphics(rep("img/Google Workspace.png"))
 
 Google Workspace is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google. It is recommended for anyone who seek for convenient collaboration tools for teamwork, especially for existing Google users.     
 
-### Main features
+### Main Features
 
 | Google Workspace | Main Features |
 | :--- | :--------- |
@@ -34,21 +34,21 @@ Google Workspace is a collection of cloud computing, productivity and collaborat
 
 ### Tutorial
 
-- **Google Drive: Build your drive**
+**Google Drive: Build Your Drive**
 
 [Getting started with Google Dirve](https://youtu.be/P7555XLfHgs)
 
-- **Google Docs/Slides/Sheets: Share with others**
+**Google Docs/Slides/Sheets: Share with Others**
 
 [Share with others](https://youtu.be/25CtYkqamIA)
   
-- **Google Docs: Check word count**
+**Google Docs: Check Word Count**
   
 ```{r echo=FALSE, fig.cap="check word count", fig.align = "center"}
 knitr::include_graphics(rep("img/wordcount1.png"))
 ```
 
-- **Google Docs: Insert equation**
+**Google Docs: Insert Equation**
   
 ```{r echo=FALSE, fig.cap="find the equation tab", fig.align = "center"}
 knitr::include_graphics(rep("img/equation1.png"))
@@ -58,31 +58,31 @@ knitr::include_graphics(rep("img/equation1.png"))
 knitr::include_graphics(rep("img/equation2.png"))
 ```
 
-- **Google Slides:**
+**Google Slides:**
 
-[Find and import templates from slidesgo](https://slidesgo.com)
+[Find and Import Templates from Slidesgo](https://slidesgo.com)
   
  ```{r echo=FALSE, fig.cap="Download the template", fig.align = "center"}
 knitr::include_graphics(rep("img/slidesgo.png"))
 ```
-- **Google Slides: Import slides **
+**Google Slides: Import Slides **
   
  ```{r echo=FALSE, fig.cap="import slides from other files", fig.align = "center"}
 knitr::include_graphics(rep("img/importslides.png"))
 ```  
-- **Google Sheets: Freeze rows and columns**
+**Google Sheets: Freeze Rows and Columns**
 
  ```{r echo=FALSE, fig.cap="freeze rows and columns", fig.align = "center"}
 knitr::include_graphics(rep("img/freeze.png"))
 ```
 
-- **Google Sheets: Link to a Google Form**
+**Google Sheets: Link to a Google Form**
 
  ```{r echo=FALSE, fig.cap="link to a Google Form", fig.align = "center"}
 knitr::include_graphics(rep("img/forms.png"))
 ```  
 
-### More resources
+### More Resources
 
 * [Tutorials for Google Drive](https://talkbitz.com/google-drive-features/)
 
@@ -103,7 +103,7 @@ knitr::include_graphics(rep("img/dropbox.jpg"))
 
 Dropbox is a file hosting service operated by the American company Dropbox, Inc. that offers cloud storage, file synchronization, personal cloud, and client software. Dropbox only provides users with 2 GB storage. It is recommended for anyone who seek for convenient collaboration tools for teamwork, especially for anyone who seek for security for files.  
 
-### Main features
+### Main Features
 
 | Dropbox | Main Features |
 | :--- | :--------- |
@@ -119,6 +119,6 @@ Dropbox is a file hosting service operated by the American company Dropbox, Inc.
 
 * [View team member activity](https://fast.wistia.net/embed/iframe/urby7qwctf)
 
-### More resources
+### More Resources
 
 * [Tutorials for Dropbox](https://youtu.be/4Nan6Zt6bzw)

@@ -8,11 +8,11 @@ knitr::include_graphics(rep("img/meet-logo.png"))
 ## Strengths and Weaknesses
 
 | Platform | Strengths | Weaknesses |
-| :--- | :--- | :--- |
-| Zoom | -Diverse platform that is constantly being upgraded<br>-Effectively mimics face-to-face meetings | -Functionality limited by internet connection<br>-Zoomboming/Poor security<br>-Low quality camera |
-| GroupMe | -Ability to access messages sent before having joined the message group<br>-Ability to message people individually or create public/private groups<br>-Can join all pages associated with your university/organization | -Inability to create sub threads<br>-Unable to connect to external platforms |
-| Slack | -Ability to create and switch between workspaces<br>-Can join all sub threads in a workspace<br>-Can be connected to Google suite | -Can get disorganized with influx of messages<br>-App is quick to update leaving users to adjust quickly<br>-Additive with direct messages and mentioning team members |
-| When2meet | -Easy to use | -Usefulness decreases as number of participants increases<br>-Can be accessed by anyone with the link |
+| :-- | :---- | :---- |
+| Zoom | - Diverse platform that is constantly being upgraded<br>- Effectively mimics face-to-face meetings | - Functionality limited by internet connection<br>- Zoomboming/Poor security<br>- Low quality camera |
+| GroupMe | - Ability to access messages sent before having joined the message group<br>- Ability to message people individually or create public/private groups<br>- Can join all pages associated with your university/organization | - Inability to create sub threads<br>- Unable to connect to external platforms |
+| Slack | - Ability to create and switch between workspaces<br>- Can join all sub threads in a workspace<br>- Can be connected to Google suite | - Can get disorganized with influx of messages<br>- App is quick to update leaving users to adjust quickly<br>- Additive with direct messages and mentioning team members |
+| When2meet | - Easy to use | - Usefulness decreases as number of participants increases<br>- Can be accessed by anyone with the link |
 
 ## Zoom
 <a id="Zoom"> </a>
@@ -24,7 +24,7 @@ Zoom is a virtual communication platform that allows you to connect with others 
 ### Main Features
 
 | Feature | Details |
-| :--- | :--- |
+| :--- | :--------- |
 | Chat | Allows participants to privately message one another or send a message to all participants of the meeting. |
 | Participants | See all participant names, audio status, and video status. Host can turn off video and audio of the participants. |
 | Share Screen | Allows people to share different screen views. Must be enabled by the host. | 
@@ -101,7 +101,7 @@ GroupMe is a group messaging app that can be accessed through an app or through 
 ### Main Features
 
 | Feature | Details |
-| :--- | :--- |
+| :--- | :--------- |
 | Chat | Allows users to start/participate in both individual and group messaging. In the chat window, users can search messages for specific words, mute messages, hide messages, or mark messages as read. |
 | Polls | Gathers the responses from group chat members through single choice or multiple choice polling questions launched by the host. The results are made available to everyone, and individual responses can be made anonymous.|
 | Profile | Allows users to access a QR for their account so other users can add them as a contact. From here, users can access contacts, archives, settings, and help/feedback tabs. |
@@ -132,7 +132,7 @@ knitr::include_graphics(rep("img/Slack1.png"))
 ```
 
 | Feature | Details |
-| :--- | :--- |
+| :--- | :--------- |
 | Channels | A place where a number of people join to converse about a certain topic, which houses their conversations, files exchanged, and more. Organizations can either set channels as visible to others or by invitation only. |
 | Direct Messages | Allows users to message everyone in the slack workspace to privately message one another and essentially create a mini channel. Direct messages can do everything a channel can. |
 | Slack Connect | Allows users of one organization to connect with Slack users of another organization while maintaining the same workflow before connection. |
@@ -157,7 +157,7 @@ When2Meet is a scheduling tool that helps groups find the best time to meet. Use
 ### Main Features
 
 | Feature | Details |
-| :--- | :--- |
+| :--- | :--------- |
 | What dates might work? | Allows the planner of the event to select specific dates or days of the week for group members to enter their availability. |
 | What times might work? | Allows the planner to select the time zone and time period they would like group members to enter their availability for. |
 | Sign In | Users can enter a display name to be shown on the calendar. They may also enter a password to revise their availability as needed and the password maintains the security of their responses. |
