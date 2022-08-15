@@ -60,7 +60,7 @@ Folders keep track of lists of tasks. They can represent projects, campaigns, or
 
 Lists are designed to group together related tasks, and show statuses of different tasks in various views, such as Kanban Board, Calendar, Timeline, Mind Map, etc.
 
-Here’s an example of a product management Kanban board in ClickUp:
+Here’s an example of a product management Kanban board in ClickUp [@Kanban]:
 ```{r echo=FALSE, fig.cap="Kanban Board View Example"}
 knitr::include_graphics(rep("img/Kanban.png"))
 ```
@@ -193,7 +193,7 @@ knitr::include_graphics(rep("img/Jira_Create.png"))
 
 Note that in Issue type there is another option called **Epic**, which means a large body of work that can be broken down into many smaller pieces of work – Stories. This is super helpful when you need to assign tasks according to user stories. In the description part, it also supports Markdown to embed any code blocks.
 
-Here is an example of user stories in an epic.
+Here is an example of user stories in an epic [@Jira].
 
 ```{r echo=FALSE, fig.cap="Jira Software Epic Example"}
 knitr::include_graphics(rep("img/Jira_Epic.png"))
@@ -206,4 +206,3 @@ In the sidebar, it only provides two views of **Roadmap** (which is similar to *
 * [Atlassian's Guide to Agile Development](https://www.atlassian.com/agile)
 * [Jira Align](https://www.atlassian.com/software/jira/align)
 * [Jira Work Management](https://www.atlassian.com/software/jira/work-management)
-
