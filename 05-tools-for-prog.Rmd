@@ -7,7 +7,7 @@ knitr::include_graphics(rep("img/prog-logo.png"))
 ## Strengths and Weaknesses
 
 | Platform | Strengths | Weaknesses |
-| :- | :--- | :--- |
+| :--- | :------- | :------- |
 | Github | - Easy code hosting and writing <br> - Effective project management and team collaboration | - Difficult to use for beginners <br> - Merge conflicts sometimes occur |
 | Colab | - No setup, easy to write and execute python code <br> - Useful team collaboration and project management tool. You can co-code with multiple developers using a Google Colab notebook| - Limited space & time with the free version <br> - Only for Python coders |
 
@@ -113,7 +113,7 @@ knitr::include_graphics(rep("img/prog-gh-R3.png"))
 Then, everything is done! Now, you can see current files in your repository on the right side of your RStudio. You can also add new files, edit current files in your repository. 
 
 
-#### Step 5: Commit, Push & Pull {-}
+#### Step 5: Commit, Push and Pull {-}
 
 After you add or edit files, you have to commit and push your changes to repository. Go to the right upper side of your RStudio and enter "Git". Then, select files and click "Commit", and you will need to select files again, input commit messages before you confirm your "Commit". 
 
@@ -184,7 +184,7 @@ Colab is shipped with several pre-installed data libraries, such as Numpy, Panda
 
 Thus, Google Colab is especially well-suited for machine learning and data analysis. 
 
-**Automatic Completions and Exploring Code**
+**Automatic Completions**
 
 Colab provides automatic completions to explore attributes of Python objects. It’s very useful when you are not sure about the functions. As an example, first run the following cell to import the pandas module. Then, as we enter “pd.read”, we can see many automatic completions below, and we can use “Tab” to choose the function we want. 
 ```{r echo=FALSE, out.width="50%", fig.align="center"}

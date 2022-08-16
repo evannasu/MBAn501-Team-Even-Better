@@ -8,7 +8,7 @@ knitr::include_graphics(rep("img/meet-logo.png"))
 ## Strengths and Weaknesses
 
 | Platform | Strengths | Weaknesses |
-| :-- | :---- | :---- |
+| :--- | :------- | :------- |
 | Zoom | - Diverse platform that is constantly being upgraded<br>- Effectively mimics face-to-face meetings | - Functionality limited by internet connection<br>- Zoomboming/Poor security<br>- Low quality camera |
 | GroupMe | - Ability to access messages sent before having joined the message group<br>- Ability to message people individually or create public/private groups<br>- Can join all pages associated with your university/organization | - Inability to create sub threads<br>- Unable to connect to external platforms |
 | Slack | - Ability to create and switch between workspaces<br>- Can join all sub threads in a workspace<br>- Can be connected to Google suite | - Can get disorganized with influx of messages<br>- App is quick to update leaving users to adjust quickly<br>- Additive with direct messages and mentioning team members |
