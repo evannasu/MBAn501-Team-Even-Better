@@ -4,7 +4,7 @@
 knitr::include_graphics(rep("img/EvenBetter_logo.png"))
 ```
 
-Hello everyone, we are Team 8 EVEN BETTER! We are dedicated to being our better selves after creating this book! We hope every student in the MBAn program can take advantage of this book in team collaboration and be their better selves!
+Hello everyone, we are Team 8 EVEN BETTER! We are dedicated to being our better selves through creating this book! We hope every student in the MBAn program can take advantage of this book in team collaboration, and be their better selves!
 
 
 ## Tong Su

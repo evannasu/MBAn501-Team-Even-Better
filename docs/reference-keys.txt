@@ -13,6 +13,8 @@ fig:unnamed-chunk-18
 fig:unnamed-chunk-19
 fig:unnamed-chunk-20
 fig:unnamed-chunk-21
+fig:unnamed-chunk-45
+fig:unnamed-chunk-46
 fig:unnamed-chunk-58
 fig:unnamed-chunk-59
 fig:unnamed-chunk-60
@@ -99,3 +101,5 @@ jira
 introduction-11
 main-features-10
 more-resources-10
+fig:unnamed-chunk-10
+fig:unnamed-chunk-11

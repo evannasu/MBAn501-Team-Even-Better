@@ -107,10 +107,11 @@ GroupMe is a group messaging app that can be accessed through an app or through 
 | Profile | Allows users to access a QR for their account so other users can add them as a contact. From here, users can access contacts, archives, settings, and help/feedback tabs. |
 | Discover | Allows users to find groups nearby and affiliated with their organization. The University of Michigan has over one hundred groups listed in its organization, and students are free to join any group set to public. 
 
-```{r echo=FALSE, out.width="50%", fig.align="center"}
+```{r echo=FALSE, fig.cap="Example of a GroupMe poll", out.width="50%", fig.align="center"}
 knitr::include_graphics(rep("img/GroupMe2.png"))
 ```
-```{r echo=FALSE, out.width="50%", fig.align="center"}
+
+```{r echo=FALSE, fig.cap="Examples of different discover groups", out.width="50%", fig.align="center"}
 knitr::include_graphics(rep("img/GroupMe1.png"))
 ```
 

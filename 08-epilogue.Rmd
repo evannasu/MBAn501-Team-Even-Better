@@ -22,7 +22,7 @@ Every time before meeting, we would set a specific goal for the meeting. It ensu
 
 **Positive Group Dynamics**
 
-Our group has a positive dynamic in that every team member trusts each other. Especially when we face challenges, every team member is willing to help each other. For instance, when we first got in touch with GitHub and r markdown, our team members were always there to help each other figure out various technical issues. Also, whenever any of us found helpful resources, we would share the resources with the group. For any change to occur, our group always chose to meet first to discuss our further steps. Then we would divide the work equally, ensuring the changes may not increase too much workload on a single person.
+Our group has a positive dynamic in that every team member trusts each other. Especially when we face challenges, every team member is willing to help each other. For instance, when we first got in touch with GitHub and R Markdown, our team members were always there to help each other figure out various technical issues. Also, whenever any of us found helpful resources, we would share the resources with the group. For any change to occur, our group always chose to meet first to discuss our further steps. Then we would divide the work equally, ensuring the changes may not increase too much workload on a single person.
 
 ## Division of Work {-}
 
@@ -36,7 +36,7 @@ At our first meeting to draft our team charter, we each chose roles to focus on 
 
 Based on the design of our project, it was quite simple to divide our work which can be seen in our table of contents. We divided the tools we discussed into four categories, therefore, 4/5 members selected a category to complete pages for and the remaining team member selected to work on the overview pages. Although each section had a different number of pages, we took the level of detail needed to effectively describe different tools into consideration. Thus, we believe that we were able to distribute the workload equally. 
 
-Our team dynamics allowed us to naturally leverage the unique strengths of each individual in the team. Lida was very skilled at maneuvering GitHub and RStudio and Nilsa had ideas on how to improve the visual presentation of our book. They worked together to increase creativity and implementation. Lilia and Yining were very artistically skilled, so they created our team logo, design elements throughout the book, and chose savy presentation templates. Tong kept our team moving forward by being attentive to deadlines and finding ways to bring everyone's ideas together. 
+Our team dynamics allowed us to naturally leverage the unique strengths of each individual in the team. Lida was very skilled at maneuvering GitHub and RStudio, and Nilsa had ideas on how to improve the visual presentation of our book. They worked together to increase creativity and implementation. Lilia and Yining were very artistically skilled, so they created our team logo, design elements throughout the book, and chose savy presentation templates. Tong kept our team moving forward by being attentive to deadlines and finding ways to bring everyone's ideas together. 
 
 ## Agile Work Practices {-}
 
