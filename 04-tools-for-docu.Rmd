@@ -36,11 +36,11 @@ Google Workspace is a collection of cloud computing, productivity and collaborat
 
 **Google Drive: Build Your Drive**
 
-[Getting started with Google Dirve](https://youtu.be/P7555XLfHgs)
+[Getting Started with Google Dirve](https://youtu.be/P7555XLfHgs)
 
 **Google Docs/Slides/Sheets: Share with Others**
 
-[Share with others](https://youtu.be/25CtYkqamIA)
+[Share with Others](https://youtu.be/25CtYkqamIA)
   
 **Google Docs: Check Word Count**
   
@@ -111,13 +111,13 @@ Dropbox is a file hosting service operated by the American company Dropbox, Inc.
 
 ### Tutorial
 
-* [Upload and Download files](https://fast.wistia.net/embed/iframe/fhh3n87je6)
+* [Upload and Download Files](https://fast.wistia.net/embed/iframe/fhh3n87je6)
 
-* [Share files and folders](https://fast.wistia.net/embed/iframe/cb1w8z1qhm)
+* [Share Files and Folders](https://fast.wistia.net/embed/iframe/cb1w8z1qhm)
 
-* [Request files from others](https://fast.wistia.net/embed/iframe/lsxu4wc346)
+* [Request Files from Others](https://fast.wistia.net/embed/iframe/lsxu4wc346)
 
-* [View team member activity](https://fast.wistia.net/embed/iframe/urby7qwctf)
+* [View Team Member Activity](https://fast.wistia.net/embed/iframe/urby7qwctf)
 
 ### More Resources
 

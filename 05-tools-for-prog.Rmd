@@ -58,9 +58,9 @@ GitHub Pages provides a static web hosting service that fetches HTML, CSS, and J
   
 #### Step 1: Installation {-}
 
-The first step is to install Git. You can install [Git-downloads](https://git-scm.com/downloads).
+The first step is to install Git. You can install [Git-Downloads](https://git-scm.com/downloads).
 
-You can also refer to the [Installation options](https://happygitwithr.com/install-git.html) to install Git.
+You can also refer to the [Installation Options](https://happygitwithr.com/install-git.html) to install Git.
   
 #### Step 2: Start a Repository {-}
 

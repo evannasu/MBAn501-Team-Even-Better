@@ -153,7 +153,7 @@ In order to make you more familiar with collaboration tools and their usage, we 
   </tr>
   <tr>
 	    <td >When2meet</td>
-	    <td > Team Members      </td>
+	    <td > Team members      </td>
 	    <td >  A scheduling tool that helps groups find the best time to meet     </td>
 	    <td align="center">  <a href="#When2meet">Link</a> </td>
   </tr>
